@@ -1,2 +1,7 @@
-# cs216-final
-CS216 Final Project - International Football Explainers
+## CS216 Final Project Codebase
+
+#### Cleaning: `data_cleaning.ipynb`
+
+#### Data:
+- 
+
