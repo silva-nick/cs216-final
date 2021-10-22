@@ -5,3 +5,7 @@
 #### Data:
 - 
 
+#### Objectives
+
+- [x] decide topic
+- [ ] collect and clean data
