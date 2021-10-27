@@ -1,0 +1,680 @@
+date,home_team,away_team,home_score,away_score,tournament,city,country,neutral,winner,winner_loc
+2010-03-03,Austria,Denmark,2,1,Friendly,Vienna,Austria,False,Austria,Home
+2010-03-03,Belgium,Croatia,0,1,Friendly,Brussels,Belgium,False,Croatia,Away
+2010-03-03,France,Spain,0,2,Friendly,Saint-Denis,France,False,Spain,Away
+2010-03-03,Malta,Finland,1,2,Friendly,Attard,Malta,False,Finland,Away
+2010-03-03,Poland,Bulgaria,2,0,Friendly,Warsaw,Poland,False,Poland,Home
+2010-05-13,Germany,Malta,3,0,Friendly,Aachen,Germany,False,Germany,Home
+2010-05-19,Austria,Croatia,0,1,Friendly,Klagenfurt,Austria,False,Croatia,Away
+2010-05-19,Belgium,Bulgaria,2,1,Friendly,Brussels,Belgium,False,Belgium,Home
+2010-05-21,Estonia,Finland,2,0,Friendly,Tallinn,Estonia,False,Estonia,Home
+2010-05-26,Estonia,Croatia,0,0,Friendly,Tallinn,Estonia,False,Tie,Tie
+2010-05-29,Hungary,Germany,0,3,Friendly,Budapest,Hungary,False,Germany,Away
+2010-05-29,Poland,Finland,0,0,Friendly,Kielce,Poland,False,Tie,Tie
+2010-06-05,Netherlands,Hungary,6,1,Friendly,Amsterdam,Netherlands,False,Netherlands,Home
+2010-06-08,Spain,Poland,6,0,Friendly,Murcia,Spain,False,Spain,Home
+2010-06-14,Netherlands,Denmark,2,0,FIFA World Cup,Johannesburg,South Africa,True,Netherlands,Home
+2010-06-18,Lithuania,Latvia,0,0,Baltic Cup,Kaunas,Lithuania,False,Tie,Tie
+2010-06-19,Estonia,Latvia,0,0,Baltic Cup,Kaunas,Lithuania,True,Tie,Tie
+2010-06-20,Lithuania,Estonia,2,0,Baltic Cup,Kaunas,Lithuania,False,Lithuania,Home
+2010-06-24,Slovakia,Italy,3,2,FIFA World Cup,Johannesburg,South Africa,True,Slovakia,Home
+2010-06-28,Netherlands,Slovakia,2,1,FIFA World Cup,Durban,South Africa,True,Netherlands,Home
+2010-06-29,Spain,Portugal,1,0,FIFA World Cup,Cape Town,South Africa,True,Spain,Home
+2010-07-07,Germany,Spain,0,1,FIFA World Cup,Durban,South Africa,True,Spain,Away
+2010-07-11,Netherlands,Spain,0,1,FIFA World Cup,Johannesburg,South Africa,True,Spain,Away
+2010-08-11,Denmark,Germany,2,2,Friendly,Copenhagen,Denmark,False,Tie,Tie
+2010-08-11,Finland,Belgium,1,0,Friendly,Turku,Finland,False,Finland,Home
+2010-08-11,Slovakia,Croatia,1,1,Friendly,Bratislava,Slovakia,False,Tie,Tie
+2010-09-03,Belgium,Germany,0,1,UEFA Euro qualification,Brussels,Belgium,False,Germany,Away
+2010-09-03,Estonia,Italy,1,2,UEFA Euro qualification,Tallinn,Estonia,False,Italy,Away
+2010-09-03,Latvia,Croatia,0,3,UEFA Euro qualification,Riga,Latvia,False,Croatia,Away
+2010-09-03,Portugal,Cyprus,4,4,UEFA Euro qualification,Guimarães,Portugal,False,Tie,Tie
+2010-09-03,Sweden,Hungary,2,0,UEFA Euro qualification,Solna,Sweden,False,Sweden,Home
+2010-09-07,Croatia,Greece,0,0,UEFA Euro qualification,Zagreb,Croatia,False,Tie,Tie
+2010-09-07,Malta,Latvia,0,2,UEFA Euro qualification,Attard,Malta,False,Latvia,Away
+2010-09-07,Netherlands,Finland,2,1,UEFA Euro qualification,Rotterdam,Netherlands,False,Netherlands,Home
+2010-10-08,Greece,Latvia,1,0,UEFA Euro qualification,Piraeus,Greece,False,Greece,Home
+2010-10-08,Portugal,Denmark,3,1,UEFA Euro qualification,Porto,Portugal,False,Portugal,Home
+2010-10-08,Spain,Lithuania,3,1,UEFA Euro qualification,Salamanca,Spain,False,Spain,Home
+2010-10-09,France,Romania,2,0,UEFA Euro qualification,Saint-Denis,France,False,France,Home
+2010-10-12,Belgium,Austria,4,4,UEFA Euro qualification,Brussels,Belgium,False,Tie,Tie
+2010-10-12,Denmark,Cyprus,2,0,UEFA Euro qualification,Copenhagen,Denmark,False,Denmark,Home
+2010-10-12,Estonia,Slovenia,0,1,UEFA Euro qualification,Tallinn,Estonia,False,Slovenia,Away
+2010-10-12,Finland,Hungary,1,2,UEFA Euro qualification,Helsinki,Finland,False,Hungary,Away
+2010-10-12,France,Luxembourg,2,0,UEFA Euro qualification,Metz,France,False,France,Home
+2010-10-12,Netherlands,Sweden,4,1,UEFA Euro qualification,Amsterdam,Netherlands,False,Netherlands,Home
+2010-11-17,Austria,Greece,1,2,Friendly,Vienna,Austria,False,Greece,Away
+2010-11-17,Croatia,Malta,3,0,UEFA Euro qualification,Zagreb,Croatia,False,Croatia,Home
+2010-11-17,Hungary,Lithuania,2,0,Friendly,Székesfehérvár,Hungary,False,Hungary,Home
+2010-11-17,Italy,Romania,1,1,Friendly,Klagenfurt,Austria,True,Tie,Tie
+2010-11-17,Portugal,Spain,4,0,Friendly,Lisbon,Portugal,False,Portugal,Home
+2010-11-17,Sweden,Germany,0,0,Friendly,Gothenburg,Sweden,False,Tie,Tie
+2011-02-08,Cyprus,Sweden,0,2,Cyprus International Tournament,Nicosia,Cyprus,False,Sweden,Away
+2011-02-09,Belgium,Finland,1,1,Friendly,Ghent,Belgium,False,Tie,Tie
+2011-02-09,Cyprus,Romania,1,1,Cyprus International Tournament,Paralímni,Cyprus,False,Tie,Tie
+2011-02-09,Germany,Italy,1,1,Friendly,Dortmund,Germany,False,Tie,Tie
+2011-02-09,Luxembourg,Slovakia,2,1,Friendly,Luxembourg,Luxembourg,False,Luxembourg,Home
+2011-02-09,Netherlands,Austria,3,1,Friendly,Eindhoven,Netherlands,False,Netherlands,Home
+2011-03-25,Austria,Belgium,0,2,UEFA Euro qualification,Vienna,Austria,False,Belgium,Away
+2011-03-25,Hungary,Netherlands,0,4,UEFA Euro qualification,Budapest,Hungary,False,Netherlands,Away
+2011-03-25,Lithuania,Poland,2,0,Friendly,Kaunas,Lithuania,False,Lithuania,Home
+2011-03-25,Luxembourg,France,0,2,UEFA Euro qualification,Luxembourg,Luxembourg,False,France,Away
+2011-03-25,Slovenia,Italy,0,1,UEFA Euro qualification,Ljubljana,Slovenia,False,Italy,Away
+2011-03-26,Malta,Greece,0,1,UEFA Euro qualification,Attard,Malta,False,Greece,Away
+2011-03-29,Cyprus,Bulgaria,0,1,Friendly,Larnaca,Cyprus,False,Bulgaria,Away
+2011-03-29,France,Croatia,0,0,Friendly,Saint-Denis,France,False,Tie,Tie
+2011-03-29,Greece,Poland,0,0,Friendly,Piraeus,Greece,False,Tie,Tie
+2011-03-29,Lithuania,Spain,1,3,UEFA Euro qualification,Kaunas,Lithuania,False,Spain,Away
+2011-03-29,Netherlands,Hungary,5,3,UEFA Euro qualification,Amsterdam,Netherlands,False,Netherlands,Home
+2011-03-29,Portugal,Finland,2,0,Friendly,Aveiro,Portugal,False,Portugal,Home
+2011-03-29,Romania,Luxembourg,3,1,UEFA Euro qualification,Piatra Neamţ,Romania,False,Romania,Home
+2011-03-29,Slovakia,Denmark,1,2,Friendly,Trnava,Slovakia,False,Denmark,Away
+2011-06-03,Austria,Germany,1,2,UEFA Euro qualification,Vienna,Austria,False,Germany,Away
+2011-06-03,Italy,Estonia,3,0,UEFA Euro qualification,Modena,Italy,False,Italy,Home
+2011-06-03,Luxembourg,Hungary,0,1,Friendly,Luxembourg,Luxembourg,False,Hungary,Away
+2011-06-04,Greece,Malta,3,1,UEFA Euro qualification,Piraeus,Greece,False,Greece,Home
+2011-06-07,Austria,Latvia,3,1,Friendly,Graz,Austria,False,Austria,Home
+2011-06-07,Sweden,Finland,5,0,UEFA Euro qualification,Solna,Sweden,False,Sweden,Home
+2011-06-09,Poland,France,0,1,Friendly,Warsaw,Poland,False,France,Away
+2011-08-10,Austria,Slovakia,1,2,Friendly,Klagenfurt,Austria,False,Slovakia,Away
+2011-08-10,Italy,Spain,2,1,Friendly,Bari,Italy,False,Italy,Home
+2011-08-10,Latvia,Finland,0,2,Friendly,Riga,Latvia,False,Finland,Away
+2011-08-10,Portugal,Luxembourg,5,0,Friendly,Faro,Portugal,False,Portugal,Home
+2011-08-10,Slovenia,Belgium,0,0,Friendly,Ljubljana,Slovenia,False,Tie,Tie
+2011-09-02,Cyprus,Portugal,0,4,UEFA Euro qualification,Nicosia,Cyprus,False,Portugal,Away
+2011-09-02,Germany,Austria,6,2,UEFA Euro qualification,Gelsenkirchen,Germany,False,Germany,Home
+2011-09-02,Hungary,Sweden,2,1,UEFA Euro qualification,Budapest,Hungary,False,Hungary,Home
+2011-09-02,Luxembourg,Romania,0,2,UEFA Euro qualification,Luxembourg,Luxembourg,False,Romania,Away
+2011-09-02,Malta,Croatia,1,3,UEFA Euro qualification,Attard,Malta,False,Croatia,Away
+2011-09-02,Slovenia,Estonia,1,2,UEFA Euro qualification,Ljubljana,Slovenia,False,Estonia,Away
+2011-09-06,Finland,Netherlands,0,2,UEFA Euro qualification,Helsinki,Finland,False,Netherlands,Away
+2011-09-06,Italy,Slovenia,1,0,UEFA Euro qualification,Florence,Italy,False,Italy,Home
+2011-09-06,Latvia,Greece,1,1,UEFA Euro qualification,Riga,Latvia,False,Tie,Tie
+2011-09-06,Poland,Germany,2,2,Friendly,Gdańsk,Poland,False,Tie,Tie
+2011-09-06,Romania,France,0,0,UEFA Euro qualification,Bucharest,Romania,False,Tie,Tie
+2011-10-07,Cyprus,Denmark,1,4,UEFA Euro qualification,Nicosia,Cyprus,False,Denmark,Away
+2011-10-07,Finland,Sweden,1,2,UEFA Euro qualification,Helsinki,Finland,False,Sweden,Away
+2011-10-07,Greece,Croatia,2,0,UEFA Euro qualification,Piraeus,Greece,False,Greece,Home
+2011-10-07,Latvia,Malta,2,0,UEFA Euro qualification,Riga,Latvia,False,Latvia,Home
+2011-10-11,Croatia,Latvia,2,0,UEFA Euro qualification,Rijeka,Croatia,False,Croatia,Home
+2011-10-11,Denmark,Portugal,2,1,UEFA Euro qualification,Copenhagen,Denmark,False,Denmark,Home
+2011-10-11,Germany,Belgium,3,1,UEFA Euro qualification,Düsseldorf,Germany,False,Germany,Home
+2011-10-11,Hungary,Finland,0,0,UEFA Euro qualification,Budapest,Hungary,False,Tie,Tie
+2011-10-11,Sweden,Netherlands,3,2,UEFA Euro qualification,Solna,Sweden,False,Sweden,Home
+2011-11-11,Belgium,Romania,2,1,Friendly,Liège,Belgium,False,Belgium,Home
+2011-11-11,Denmark,Sweden,2,0,Friendly,Copenhagen,Denmark,False,Denmark,Home
+2011-11-11,Poland,Italy,0,2,Friendly,Wrocław,Poland,False,Italy,Away
+2011-11-15,Denmark,Finland,2,1,Friendly,Esbjerg,Denmark,False,Denmark,Home
+2011-11-15,France,Belgium,0,0,Friendly,Saint-Denis,France,False,Tie,Tie
+2011-11-15,Germany,Netherlands,3,0,Friendly,Hamburg,Germany,False,Germany,Home
+2011-11-15,Greece,Romania,1,3,Friendly,Altach,Austria,True,Romania,Away
+2011-11-15,Poland,Hungary,2,1,Friendly,Poznań,Poland,False,Poland,Home
+2012-02-29,Austria,Finland,3,1,Friendly,Klagenfurt,Austria,False,Austria,Home
+2012-02-29,Croatia,Sweden,1,3,Friendly,Zagreb,Croatia,False,Sweden,Away
+2012-02-29,Germany,France,1,2,Friendly,Bremen,Germany,False,France,Away
+2012-02-29,Greece,Belgium,1,1,Friendly,Heraklion,Greece,False,Tie,Tie
+2012-02-29,Hungary,Bulgaria,1,1,Friendly,Győr,Hungary,False,Tie,Tie
+2012-02-29,Poland,Portugal,0,0,Friendly,Warsaw,Poland,False,Tie,Tie
+2012-05-22,Latvia,Poland,0,1,Friendly,Klagenfurt,Austria,True,Poland,Away
+2012-05-25,Croatia,Estonia,3,1,Friendly,Rijeka,Croatia,False,Croatia,Home
+2012-05-26,Greece,Slovenia,1,1,Friendly,Kufstein,Austria,True,Tie,Tie
+2012-05-26,Netherlands,Bulgaria,1,2,Friendly,Amsterdam,Netherlands,False,Bulgaria,Away
+2012-05-26,Poland,Slovakia,1,0,Friendly,Klagenfurt,Austria,True,Poland,Home
+2012-05-30,Netherlands,Slovakia,2,0,Friendly,Rotterdam,Netherlands,False,Netherlands,Home
+2012-06-01,Estonia,Finland,1,2,Baltic Cup,Tartu,Estonia,False,Finland,Away
+2012-06-01,Latvia,Lithuania,5,0,Baltic Cup,Võru,Estonia,True,Latvia,Home
+2012-06-02,Luxembourg,Malta,0,2,Friendly,Luxembourg,Luxembourg,False,Malta,Away
+2012-06-03,Estonia,Lithuania,1,0,Baltic Cup,Tartu,Estonia,False,Estonia,Home
+2012-06-03,Finland,Latvia,1,1,Baltic Cup,Võru,Estonia,True,Latvia,Tie
+2012-06-05,Austria,Romania,0,0,Friendly,Innsbruck,Austria,False,Tie,Tie
+2012-06-05,France,Estonia,4,0,Friendly,Le Mans,France,False,France,Home
+2012-06-08,Poland,Greece,1,1,UEFA Euro,Warsaw,Poland,False,Tie,Tie
+2012-06-09,Germany,Portugal,1,0,UEFA Euro,L'viv,Ukraine,True,Germany,Home
+2012-06-09,Netherlands,Denmark,0,1,UEFA Euro,Kharkiv,Ukraine,True,Denmark,Away
+2012-06-10,Spain,Italy,1,1,UEFA Euro,Gdańsk,Poland,True,Tie,Tie
+2012-06-13,Denmark,Portugal,2,3,UEFA Euro,L'viv,Ukraine,True,Portugal,Away
+2012-06-13,Netherlands,Germany,1,2,UEFA Euro,Kharkiv,Ukraine,True,Germany,Away
+2012-06-14,Italy,Croatia,1,1,UEFA Euro,Poznań,Poland,True,Tie,Tie
+2012-06-17,Denmark,Germany,1,2,UEFA Euro,L'viv,Ukraine,True,Germany,Away
+2012-06-17,Portugal,Netherlands,2,1,UEFA Euro,Kharkiv,Ukraine,True,Portugal,Home
+2012-06-18,Croatia,Spain,0,1,UEFA Euro,Gdańsk,Poland,True,Spain,Away
+2012-06-19,Sweden,France,2,0,UEFA Euro,Kyïv,Ukraine,True,Sweden,Home
+2012-06-22,Germany,Greece,4,2,UEFA Euro,Gdańsk,Poland,True,Germany,Home
+2012-06-23,Spain,France,2,0,UEFA Euro,Donets'k,Ukraine,True,Spain,Home
+2012-06-27,Portugal,Spain,0,0,UEFA Euro,Donets'k,Ukraine,True,Spain,Tie
+2012-06-28,Germany,Italy,1,2,UEFA Euro,Warsaw,Poland,True,Italy,Away
+2012-07-01,Spain,Italy,4,0,UEFA Euro,Kyïv,Ukraine,True,Spain,Home
+2012-08-15,Belgium,Netherlands,4,2,Friendly,Brussels,Belgium,False,Belgium,Home
+2012-08-15,Bulgaria,Cyprus,1,0,Friendly,Sofia,Bulgaria,False,Bulgaria,Home
+2012-08-15,Denmark,Slovakia,1,3,Friendly,Odense,Denmark,False,Slovakia,Away
+2012-08-15,Estonia,Poland,1,0,Friendly,Tallinn,Estonia,False,Estonia,Home
+2012-08-15,Slovenia,Romania,4,3,Friendly,Celje,Slovenia,False,Slovenia,Home
+2012-09-07,Bulgaria,Italy,2,2,FIFA World Cup qualification,Sofia,Bulgaria,False,Tie,Tie
+2012-09-07,Estonia,Romania,0,2,FIFA World Cup qualification,Tallinn,Estonia,False,Romania,Away
+2012-09-07,Finland,France,0,1,FIFA World Cup qualification,Helsinki,Finland,False,France,Away
+2012-09-07,Latvia,Greece,1,2,FIFA World Cup qualification,Riga,Latvia,False,Greece,Away
+2012-09-07,Lithuania,Slovakia,1,1,FIFA World Cup qualification,Vilnius,Lithuania,False,Tie,Tie
+2012-09-07,Luxembourg,Portugal,1,2,FIFA World Cup qualification,Luxembourg,Luxembourg,False,Portugal,Away
+2012-09-11,Austria,Germany,1,2,FIFA World Cup qualification,Vienna,Austria,False,Germany,Away
+2012-09-11,Belgium,Croatia,1,1,FIFA World Cup qualification,Brussels,Belgium,False,Tie,Tie
+2012-09-11,Greece,Lithuania,2,0,FIFA World Cup qualification,Piraeus,Greece,False,Greece,Home
+2012-09-11,Hungary,Netherlands,1,4,FIFA World Cup qualification,Budapest,Hungary,False,Netherlands,Away
+2012-09-11,Italy,Malta,2,0,FIFA World Cup qualification,Modena,Italy,False,Italy,Home
+2012-10-12,Bulgaria,Denmark,1,1,FIFA World Cup qualification,Sofia,Bulgaria,False,Tie,Tie
+2012-10-12,Estonia,Hungary,0,1,FIFA World Cup qualification,Tallinn,Estonia,False,Hungary,Away
+2012-10-12,Slovakia,Latvia,2,1,FIFA World Cup qualification,Bratislava,Slovakia,False,Slovakia,Home
+2012-10-12,Slovenia,Cyprus,2,1,FIFA World Cup qualification,Maribor,Slovenia,False,Slovenia,Home
+2012-10-16,Germany,Sweden,4,4,FIFA World Cup qualification,Berlin,Germany,False,Tie,Tie
+2012-10-16,Italy,Denmark,3,1,FIFA World Cup qualification,Milan,Italy,False,Italy,Home
+2012-10-16,Romania,Netherlands,1,4,FIFA World Cup qualification,Bucharest,Romania,False,Netherlands,Away
+2012-10-16,Slovakia,Greece,0,1,FIFA World Cup qualification,Bratislava,Slovakia,False,Greece,Away
+2012-10-16,Spain,France,1,1,FIFA World Cup qualification,Madrid,Spain,False,Tie,Tie
+2012-11-14,Cyprus,Finland,0,3,Friendly,Nicosia,Cyprus,False,Finland,Away
+2012-11-14,Italy,France,1,2,Friendly,Parma,Italy,False,France,Away
+2012-11-14,Netherlands,Germany,0,0,Friendly,Amsterdam,Netherlands,False,Tie,Tie
+2012-11-14,Romania,Belgium,2,1,Friendly,Bucharest,Romania,False,Romania,Home
+2013-01-26,Sweden,Finland,3,0,King's Cup,Chiang Mai,Thailand,True,Sweden,Home
+2013-02-02,Romania,Poland,1,4,Friendly,Málaga,Spain,True,Poland,Away
+2013-02-06,Belgium,Slovakia,2,1,Friendly,Bruges,Belgium,False,Belgium,Home
+2013-02-06,France,Germany,1,2,Friendly,Saint-Denis,France,False,Germany,Away
+2013-02-06,Netherlands,Italy,1,1,Friendly,Amsterdam,Netherlands,False,Tie,Tie
+2013-03-22,Bulgaria,Malta,6,0,FIFA World Cup qualification,Sofia,Bulgaria,False,Bulgaria,Home
+2013-03-22,Hungary,Romania,2,2,FIFA World Cup qualification,Budapest,Hungary,False,Tie,Tie
+2013-03-22,Netherlands,Estonia,3,0,FIFA World Cup qualification,Amsterdam,Netherlands,False,Netherlands,Home
+2013-03-22,Slovakia,Lithuania,1,1,FIFA World Cup qualification,Žilina,Slovakia,False,Tie,Tie
+2013-03-22,Spain,Finland,1,1,FIFA World Cup qualification,Gijón,Spain,False,Tie,Tie
+2013-03-26,Denmark,Bulgaria,1,1,FIFA World Cup qualification,Copenhagen,Denmark,False,Tie,Tie
+2013-03-26,France,Spain,0,1,FIFA World Cup qualification,Saint-Denis,France,False,Spain,Away
+2013-03-26,Luxembourg,Finland,0,3,Friendly,Luxembourg,Luxembourg,False,Finland,Away
+2013-03-26,Malta,Italy,0,2,FIFA World Cup qualification,Attard,Malta,False,Italy,Away
+2013-03-26,Netherlands,Romania,4,0,FIFA World Cup qualification,Amsterdam,Netherlands,False,Netherlands,Home
+2013-03-26,Slovakia,Sweden,0,0,Friendly,Žilina,Slovakia,False,Tie,Tie
+2013-06-07,Austria,Sweden,2,1,FIFA World Cup qualification,Vienna,Austria,False,Austria,Home
+2013-06-07,Lithuania,Greece,0,1,FIFA World Cup qualification,Vilnius,Lithuania,False,Greece,Away
+2013-06-10,Croatia,Portugal,0,1,Friendly,Geneva,Switzerland,True,Portugal,Away
+2013-06-27,Spain,Italy,0,0,Confederations Cup,Fortaleza,Brazil,True,Spain,Tie
+2013-08-14,Austria,Greece,0,2,Friendly,Salzburg,Austria,False,Greece,Away
+2013-08-14,Belgium,France,0,0,Friendly,Brussels,Belgium,False,Tie,Tie
+2013-08-14,Estonia,Latvia,1,1,Friendly,Tallinn,Estonia,False,Tie,Tie
+2013-08-14,Finland,Slovenia,2,0,Friendly,Turku,Finland,False,Finland,Home
+2013-08-14,Luxembourg,Lithuania,2,1,Friendly,Luxembourg,Luxembourg,False,Luxembourg,Home
+2013-08-14,Poland,Denmark,3,2,Friendly,Gdańsk,Poland,False,Poland,Home
+2013-08-14,Portugal,Netherlands,1,1,Friendly,Faro,Portugal,False,Tie,Tie
+2013-08-14,Romania,Slovakia,1,1,Friendly,Bucharest,Romania,False,Tie,Tie
+2013-09-06,Estonia,Netherlands,2,2,FIFA World Cup qualification,Tallinn,Estonia,False,Tie,Tie
+2013-09-06,Finland,Spain,0,2,FIFA World Cup qualification,Helsinki,Finland,False,Spain,Away
+2013-09-06,Germany,Austria,3,0,FIFA World Cup qualification,Munich,Germany,False,Germany,Home
+2013-09-06,Italy,Bulgaria,1,0,FIFA World Cup qualification,Palermo,Italy,False,Italy,Home
+2013-09-06,Latvia,Lithuania,2,1,FIFA World Cup qualification,Riga,Latvia,False,Latvia,Home
+2013-09-06,Malta,Denmark,1,2,FIFA World Cup qualification,Attard,Malta,False,Denmark,Away
+2013-09-06,Romania,Hungary,3,0,FIFA World Cup qualification,Bucharest,Romania,False,Romania,Home
+2013-09-10,Cyprus,Slovenia,0,2,FIFA World Cup qualification,Nicosia,Cyprus,False,Slovenia,Away
+2013-09-10,Greece,Latvia,1,0,FIFA World Cup qualification,Piraeus,Greece,False,Greece,Home
+2013-09-10,Hungary,Estonia,5,1,FIFA World Cup qualification,Budapest,Hungary,False,Hungary,Home
+2013-09-10,Malta,Bulgaria,1,2,FIFA World Cup qualification,Attard,Malta,False,Bulgaria,Away
+2013-10-11,Croatia,Belgium,1,2,FIFA World Cup qualification,Zagreb,Croatia,False,Belgium,Away
+2013-10-11,Denmark,Italy,2,2,FIFA World Cup qualification,Copenhagen,Denmark,False,Tie,Tie
+2013-10-11,Greece,Slovakia,1,0,FIFA World Cup qualification,Piraeus,Greece,False,Greece,Home
+2013-10-11,Lithuania,Latvia,2,0,FIFA World Cup qualification,Vilnius,Lithuania,False,Lithuania,Home
+2013-10-11,Netherlands,Hungary,8,1,FIFA World Cup qualification,Amsterdam,Netherlands,False,Netherlands,Home
+2013-10-11,Sweden,Austria,2,1,FIFA World Cup qualification,Solna,Sweden,False,Sweden,Home
+2013-10-15,Denmark,Malta,6,0,FIFA World Cup qualification,Copenhagen,Denmark,False,Denmark,Home
+2013-10-15,France,Finland,3,0,FIFA World Cup qualification,Saint-Denis,France,False,France,Home
+2013-10-15,Latvia,Slovakia,2,2,FIFA World Cup qualification,Riga,Latvia,False,Tie,Tie
+2013-10-15,Portugal,Luxembourg,3,0,FIFA World Cup qualification,Coimbra,Portugal,False,Portugal,Home
+2013-10-15,Romania,Estonia,2,0,FIFA World Cup qualification,Bucharest,Romania,False,Romania,Home
+2013-10-15,Sweden,Germany,3,5,FIFA World Cup qualification,Solna,Sweden,False,Germany,Away
+2013-11-15,Greece,Romania,3,1,FIFA World Cup qualification,Piraeus,Greece,False,Greece,Home
+2013-11-15,Italy,Germany,1,1,Friendly,Milan,Italy,False,Tie,Tie
+2013-11-15,Poland,Slovakia,0,2,Friendly,Wrocław,Poland,False,Slovakia,Away
+2013-11-15,Portugal,Sweden,1,0,FIFA World Cup qualification,Lisbon,Portugal,False,Portugal,Home
+2013-11-19,Romania,Greece,1,1,FIFA World Cup qualification,Bucharest,Romania,False,Tie,Tie
+2013-11-19,Sweden,Portugal,2,3,FIFA World Cup qualification,Solna,Sweden,False,Portugal,Away
+2014-03-05,France,Netherlands,2,0,Friendly,Saint-Denis,France,False,France,Home
+2014-03-05,Hungary,Finland,1,2,Friendly,Győr,Hungary,False,Finland,Away
+2014-03-05,Spain,Italy,1,0,Friendly,Madrid,Spain,False,Spain,Home
+2014-05-13,Germany,Poland,0,0,Friendly,Hamburg,Germany,False,Tie,Tie
+2014-05-22,Hungary,Denmark,2,2,Friendly,Debrecen,Hungary,False,Tie,Tie
+2014-05-26,Belgium,Luxembourg,5,1,Friendly,Genk,Belgium,False,Belgium,Home
+2014-05-28,Denmark,Sweden,1,0,Friendly,Copenhagen,Denmark,False,Denmark,Home
+2014-05-29,Finland,Lithuania,0,1,Baltic Cup,Ventspils,Latvia,True,Lithuania,Away
+2014-05-29,Latvia,Estonia,0,0,Baltic Cup,Liepāja,Latvia,False,Latvia,Tie
+2014-05-31,Finland,Estonia,2,0,Baltic Cup,Ventspils,Latvia,True,Finland,Home
+2014-05-31,Latvia,Lithuania,1,0,Baltic Cup,Liepāja,Latvia,False,Latvia,Home
+2014-05-31,Portugal,Greece,0,0,Friendly,Oeiras,Portugal,False,Tie,Tie
+2014-06-01,Sweden,Belgium,0,2,Friendly,Solna,Sweden,False,Belgium,Away
+2014-06-04,Italy,Luxembourg,1,1,Friendly,Perugia,Italy,False,Tie,Tie
+2014-06-06,Poland,Lithuania,2,1,Friendly,Gdańsk,Poland,False,Poland,Home
+2014-06-13,Spain,Netherlands,1,5,FIFA World Cup,Salvador,Brazil,True,Netherlands,Away
+2014-06-16,Germany,Portugal,4,0,FIFA World Cup,Salvador,Brazil,True,Germany,Home
+2014-07-04,France,Germany,0,1,FIFA World Cup,Rio de Janeiro,Brazil,True,Germany,Away
+2014-09-04,Croatia,Cyprus,2,0,Friendly,Pula,Croatia,False,Croatia,Home
+2014-09-04,France,Spain,1,0,Friendly,Saint-Denis,France,False,France,Home
+2014-09-04,Italy,Netherlands,2,0,Friendly,Bari,Italy,False,Italy,Home
+2014-09-04,Slovakia,Malta,1,0,Friendly,Žilina,Slovakia,False,Slovakia,Home
+2014-09-04,Sweden,Estonia,2,0,Friendly,Solna,Sweden,False,Sweden,Home
+2014-09-07,Greece,Romania,0,1,UEFA Euro qualification,Piraeus,Greece,False,Romania,Away
+2014-09-08,Austria,Sweden,1,1,UEFA Euro qualification,Vienna,Austria,False,Tie,Tie
+2014-09-08,Estonia,Slovenia,1,0,UEFA Euro qualification,Tallinn,Estonia,False,Estonia,Home
+2014-09-09,Croatia,Malta,2,0,UEFA Euro qualification,Zagreb,Croatia,False,Croatia,Home
+2014-10-09,Lithuania,Estonia,1,0,UEFA Euro qualification,Vilnius,Lithuania,False,Lithuania,Home
+2014-10-09,Slovakia,Spain,2,1,UEFA Euro qualification,Žilina,Slovakia,False,Slovakia,Home
+2014-10-10,Bulgaria,Croatia,0,1,UEFA Euro qualification,Sofia,Bulgaria,False,Croatia,Away
+2014-10-11,Finland,Greece,1,1,UEFA Euro qualification,Helsinki,Finland,False,Tie,Tie
+2014-10-11,France,Portugal,2,1,Friendly,Saint-Denis,France,False,France,Home
+2014-10-11,Poland,Germany,2,0,UEFA Euro qualification,Warsaw,Poland,False,Poland,Home
+2014-10-11,Romania,Hungary,1,1,UEFA Euro qualification,Bucharest,Romania,False,Tie,Tie
+2014-10-12,Lithuania,Slovenia,0,2,UEFA Euro qualification,Vilnius,Lithuania,False,Slovenia,Away
+2014-10-12,Luxembourg,Spain,0,4,UEFA Euro qualification,Luxembourg,Luxembourg,False,Spain,Away
+2014-10-13,Malta,Italy,0,1,UEFA Euro qualification,Attard,Malta,False,Italy,Away
+2014-10-14,Denmark,Portugal,0,1,UEFA Euro qualification,Copenhagen,Denmark,False,Portugal,Away
+2014-10-14,Finland,Romania,0,2,UEFA Euro qualification,Helsinki,Finland,False,Romania,Away
+2014-11-14,Hungary,Finland,1,0,UEFA Euro qualification,Budapest,Hungary,False,Hungary,Home
+2014-11-16,Bulgaria,Malta,1,1,UEFA Euro qualification,Sofia,Bulgaria,False,Tie,Tie
+2014-11-16,Italy,Croatia,1,1,UEFA Euro qualification,Milan,Italy,False,Tie,Tie
+2014-11-16,Netherlands,Latvia,6,0,UEFA Euro qualification,Amsterdam,Netherlands,False,Netherlands,Home
+2014-11-18,France,Sweden,1,0,Friendly,Marseille,France,False,France,Home
+2014-11-18,Romania,Denmark,2,0,Friendly,Bucharest,Romania,False,Romania,Home
+2014-11-18,Slovakia,Finland,2,1,Friendly,Žilina,Slovakia,False,Slovakia,Home
+2014-11-18,Spain,Germany,0,1,Friendly,Vigo,Spain,False,Germany,Away
+2015-01-19,Finland,Sweden,1,0,Friendly,Abu Dhabi,United Arab Emirates,True,Finland,Home
+2015-03-27,Slovakia,Luxembourg,3,0,UEFA Euro qualification,Žilina,Slovakia,False,Slovakia,Home
+2015-03-28,Belgium,Cyprus,5,0,UEFA Euro qualification,Brussels,Belgium,False,Belgium,Home
+2015-03-28,Bulgaria,Italy,2,2,UEFA Euro qualification,Sofia,Bulgaria,False,Tie,Tie
+2015-03-29,France,Denmark,2,0,Friendly,Saint-Étienne,France,False,France,Home
+2015-03-29,Hungary,Greece,0,0,UEFA Euro qualification,Budapest,Hungary,False,Tie,Tie
+2015-03-31,Netherlands,Spain,2,0,Friendly,Amsterdam,Netherlands,False,Netherlands,Home
+2015-06-05,Hungary,Lithuania,4,0,Friendly,Debrecen,Hungary,False,Hungary,Home
+2015-06-07,France,Belgium,3,4,Friendly,Saint-Denis,France,False,Belgium,Away
+2015-06-08,Malta,Lithuania,2,0,Friendly,Attard,Malta,False,Malta,Home
+2015-06-09,Finland,Estonia,0,2,Friendly,Turku,Finland,False,Estonia,Away
+2015-06-12,Croatia,Italy,1,1,UEFA Euro qualification,Split,Croatia,False,Tie,Tie
+2015-06-12,Latvia,Netherlands,0,2,UEFA Euro qualification,Riga,Latvia,False,Netherlands,Away
+2015-06-12,Malta,Bulgaria,0,1,UEFA Euro qualification,Attard,Malta,False,Bulgaria,Away
+2015-06-13,Finland,Hungary,0,1,UEFA Euro qualification,Helsinki,Finland,False,Hungary,Away
+2015-06-16,Italy,Portugal,0,1,Friendly,Geneva,Switzerland,True,Portugal,Away
+2015-06-16,Poland,Greece,0,0,Friendly,Gdańsk,Poland,False,Tie,Tie
+2015-09-03,Italy,Malta,1,0,UEFA Euro qualification,Florence,Italy,False,Italy,Home
+2015-09-04,Germany,Poland,3,1,UEFA Euro qualification,Frankfurt am Main,Germany,False,Germany,Home
+2015-09-04,Greece,Finland,0,1,UEFA Euro qualification,Piraeus,Greece,False,Finland,Away
+2015-09-04,Hungary,Romania,0,0,UEFA Euro qualification,Budapest,Hungary,False,Tie,Tie
+2015-09-04,Portugal,France,0,1,Friendly,Lisbon,Portugal,False,France,Away
+2015-09-05,Estonia,Lithuania,1,0,UEFA Euro qualification,Tallinn,Estonia,False,Estonia,Home
+2015-09-05,Spain,Slovakia,2,0,UEFA Euro qualification,Oviedo,Spain,False,Spain,Home
+2015-09-06,Cyprus,Belgium,0,1,UEFA Euro qualification,Nicosia,Cyprus,False,Belgium,Away
+2015-09-06,Italy,Bulgaria,1,0,UEFA Euro qualification,Palermo,Italy,False,Italy,Home
+2015-09-07,Romania,Greece,0,0,UEFA Euro qualification,Bucharest,Romania,False,Tie,Tie
+2015-09-08,Slovenia,Estonia,1,0,UEFA Euro qualification,Maribor,Slovenia,False,Slovenia,Home
+2015-09-08,Sweden,Austria,1,4,UEFA Euro qualification,Solna,Sweden,False,Austria,Away
+2015-10-08,Portugal,Denmark,1,0,UEFA Euro qualification,Braga,Portugal,False,Portugal,Home
+2015-10-08,Romania,Finland,1,1,UEFA Euro qualification,Bucharest,Romania,False,Tie,Tie
+2015-10-09,Slovenia,Lithuania,1,1,UEFA Euro qualification,Ljubljana,Slovenia,False,Tie,Tie
+2015-10-09,Spain,Luxembourg,4,0,UEFA Euro qualification,Logroño,Spain,False,Spain,Home
+2015-10-10,Croatia,Bulgaria,3,0,UEFA Euro qualification,Zagreb,Croatia,False,Croatia,Home
+2015-10-11,Denmark,France,1,2,Friendly,Copenhagen,Denmark,False,France,Away
+2015-10-11,Greece,Hungary,4,3,UEFA Euro qualification,Piraeus,Greece,False,Greece,Home
+2015-10-12,Luxembourg,Slovakia,2,4,UEFA Euro qualification,Luxembourg,Luxembourg,False,Slovakia,Away
+2015-10-13,Malta,Croatia,0,1,UEFA Euro qualification,Attard,Malta,False,Croatia,Away
+2015-11-13,Belgium,Italy,3,1,Friendly,Brussels,Belgium,False,Belgium,Home
+2015-11-13,France,Germany,2,0,Friendly,Saint-Denis,France,False,France,Home
+2015-11-13,Luxembourg,Greece,1,0,Friendly,Luxembourg,Luxembourg,False,Luxembourg,Home
+2015-11-14,Sweden,Denmark,2,1,UEFA Euro qualification,Solna,Sweden,False,Sweden,Home
+2015-11-17,Denmark,Sweden,2,2,UEFA Euro qualification,Copenhagen,Denmark,False,Tie,Tie
+2015-11-17,Italy,Romania,2,2,Friendly,Bologna,Italy,False,Tie,Tie
+2015-11-17,Luxembourg,Portugal,0,2,Friendly,Luxembourg,Luxembourg,False,Portugal,Away
+2016-01-06,Sweden,Estonia,1,1,Friendly,Abu Dhabi,United Arab Emirates,True,Tie,Tie
+2016-01-10,Sweden,Finland,3,0,Friendly,Abu Dhabi,United Arab Emirates,True,Sweden,Home
+2016-03-23,Romania,Lithuania,1,0,Friendly,Giurgiu,Romania,False,Romania,Home
+2016-03-24,Italy,Spain,1,1,Friendly,Udine,Italy,False,Tie,Tie
+2016-03-25,Netherlands,France,2,3,Friendly,Amsterdam,Netherlands,False,France,Away
+2016-03-25,Portugal,Bulgaria,0,1,Friendly,Leiria,Portugal,False,Bulgaria,Away
+2016-03-25,Slovakia,Latvia,0,0,Friendly,Trnava,Slovakia,False,Tie,Tie
+2016-03-26,Hungary,Croatia,1,1,Friendly,Budapest,Hungary,False,Tie,Tie
+2016-03-26,Poland,Finland,5,0,Friendly,Wrocław,Poland,False,Poland,Home
+2016-03-27,Romania,Spain,0,0,Friendly,Cluj,Romania,False,Tie,Tie
+2016-03-29,Germany,Italy,4,1,Friendly,Munich,Germany,False,Germany,Home
+2016-03-29,Portugal,Belgium,2,1,Friendly,Leiria,Portugal,False,Portugal,Home
+2016-05-29,Germany,Slovakia,1,3,Friendly,Augsburg,Germany,False,Slovakia,Away
+2016-05-29,Lithuania,Estonia,2,0,Baltic Cup,Klaipėda,Lithuania,False,Lithuania,Home
+2016-05-30,Sweden,Slovenia,0,0,Friendly,Malmö,Sweden,False,Tie,Tie
+2016-05-31,Austria,Malta,2,1,Friendly,Klagenfurt,Austria,False,Austria,Home
+2016-06-01,Belgium,Finland,1,1,Friendly,Brussels,Belgium,False,Tie,Tie
+2016-06-01,Latvia,Lithuania,2,1,Baltic Cup,Liepāja,Latvia,False,Latvia,Home
+2016-06-01,Poland,Netherlands,1,2,Friendly,Gdańsk,Poland,False,Netherlands,Away
+2016-06-04,Austria,Netherlands,0,2,Friendly,Vienna,Austria,False,Netherlands,Away
+2016-06-04,Estonia,Latvia,0,0,Baltic Cup,Tallinn,Estonia,False,Tie,Tie
+2016-06-04,Germany,Hungary,2,0,Friendly,Gelsenkirchen,Germany,False,Germany,Home
+2016-06-06,Italy,Finland,2,0,Friendly,Verona,Italy,False,Italy,Home
+2016-06-06,Poland,Lithuania,0,0,Friendly,Cracow,Poland,False,Tie,Tie
+2016-06-07,Bulgaria,Denmark,0,4,Kirin Cup,Suita,Japan,True,Denmark,Away
+2016-06-08,Portugal,Estonia,7,0,Friendly,Lisbon,Portugal,False,Portugal,Home
+2016-06-10,France,Romania,2,1,UEFA Euro,Saint-Denis,France,False,France,Home
+2016-06-13,Belgium,Italy,0,2,UEFA Euro,Lyon,France,True,Italy,Away
+2016-06-14,Austria,Hungary,0,2,UEFA Euro,Bordeaux,France,True,Hungary,Away
+2016-06-16,Germany,Poland,0,0,UEFA Euro,Saint-Denis,France,True,Tie,Tie
+2016-06-17,Italy,Sweden,1,0,UEFA Euro,Toulouse,France,True,Italy,Home
+2016-06-18,Portugal,Austria,0,0,UEFA Euro,Lyon,France,True,Tie,Tie
+2016-06-21,Croatia,Spain,2,1,UEFA Euro,Bordeaux,France,True,Croatia,Home
+2016-06-22,Hungary,Portugal,3,3,UEFA Euro,Lyon,France,True,Tie,Tie
+2016-06-22,Sweden,Belgium,0,1,UEFA Euro,Nice,France,True,Belgium,Away
+2016-06-25,Croatia,Portugal,0,1,UEFA Euro,Lens,France,True,Portugal,Away
+2016-06-26,Germany,Slovakia,3,0,UEFA Euro,Villeneuve-d'Ascq,France,True,Germany,Home
+2016-06-26,Hungary,Belgium,0,4,UEFA Euro,Toulouse,France,True,Belgium,Away
+2016-06-27,Italy,Spain,2,0,UEFA Euro,Saint-Denis,France,True,Italy,Home
+2016-06-30,Poland,Portugal,1,1,UEFA Euro,Marseille,France,True,Portugal,Tie
+2016-07-02,Germany,Italy,1,1,UEFA Euro,Bordeaux,France,True,Germany,Tie
+2016-07-07,France,Germany,2,0,UEFA Euro,Marseille,France,False,France,Home
+2016-07-10,France,Portugal,0,1,UEFA Euro,Saint-Denis,France,False,Portugal,Away
+2016-08-31,Estonia,Malta,1,1,Friendly,Pärnu,Estonia,False,Tie,Tie
+2016-08-31,Germany,Finland,2,0,Friendly,Mönchengladbach,Germany,False,Germany,Home
+2016-09-01,Belgium,Spain,0,2,Friendly,Brussels,Belgium,False,Spain,Away
+2016-09-01,Italy,France,1,3,Friendly,Bari,Italy,False,France,Away
+2016-09-01,Netherlands,Greece,1,2,Friendly,Eindhoven,Netherlands,False,Greece,Away
+2016-09-02,Latvia,Luxembourg,3,1,Friendly,Riga,Latvia,False,Latvia,Home
+2016-09-04,Lithuania,Slovenia,2,2,FIFA World Cup qualification,Vilnius,Lithuania,False,Tie,Tie
+2016-09-06,Bulgaria,Luxembourg,4,3,FIFA World Cup qualification,Sofia,Bulgaria,False,Bulgaria,Home
+2016-09-06,Cyprus,Belgium,0,3,FIFA World Cup qualification,Nicosia,Cyprus,False,Belgium,Away
+2016-09-06,Sweden,Netherlands,1,1,FIFA World Cup qualification,Solna,Sweden,False,Tie,Tie
+2016-10-06,Italy,Spain,1,1,FIFA World Cup qualification,Turin,Italy,False,Tie,Tie
+2016-10-07,France,Bulgaria,4,1,FIFA World Cup qualification,Saint-Denis,France,False,France,Home
+2016-10-07,Greece,Cyprus,2,0,FIFA World Cup qualification,Piraeus,Greece,False,Greece,Home
+2016-10-07,Luxembourg,Sweden,0,1,FIFA World Cup qualification,Luxembourg,Luxembourg,False,Sweden,Away
+2016-10-08,Poland,Denmark,3,2,FIFA World Cup qualification,Warsaw,Poland,False,Poland,Home
+2016-10-08,Slovenia,Slovakia,1,0,FIFA World Cup qualification,Ljubljana,Slovenia,False,Slovenia,Home
+2016-10-09,Finland,Croatia,0,1,FIFA World Cup qualification,Tampere,Finland,False,Croatia,Away
+2016-10-10,Estonia,Greece,0,2,FIFA World Cup qualification,Tallinn,Estonia,False,Greece,Away
+2016-10-10,Latvia,Hungary,0,2,FIFA World Cup qualification,Riga,Latvia,False,Hungary,Away
+2016-10-10,Netherlands,France,0,1,FIFA World Cup qualification,Amsterdam,Netherlands,False,France,Away
+2016-10-10,Sweden,Bulgaria,3,0,FIFA World Cup qualification,Solna,Sweden,False,Sweden,Home
+2016-10-11,Lithuania,Malta,2,0,FIFA World Cup qualification,Vilnius,Lithuania,False,Lithuania,Home
+2016-11-09,Netherlands,Belgium,1,1,Friendly,Amsterdam,Netherlands,False,Tie,Tie
+2016-11-11,France,Sweden,2,1,FIFA World Cup qualification,Saint-Denis,France,False,France,Home
+2016-11-11,Malta,Slovenia,0,1,FIFA World Cup qualification,Attard,Malta,False,Slovenia,Away
+2016-11-11,Romania,Poland,0,3,FIFA World Cup qualification,Bucharest,Romania,False,Poland,Away
+2016-11-11,Slovakia,Lithuania,4,0,FIFA World Cup qualification,Trnava,Slovakia,False,Slovakia,Home
+2016-11-13,Belgium,Estonia,8,1,FIFA World Cup qualification,Brussels,Belgium,False,Belgium,Home
+2016-11-13,Luxembourg,Netherlands,1,3,FIFA World Cup qualification,Luxembourg,Luxembourg,False,Netherlands,Away
+2016-11-13,Portugal,Latvia,4,1,FIFA World Cup qualification,Faro,Portugal,False,Portugal,Home
+2016-11-14,Poland,Slovenia,1,1,Friendly,Wrocław,Poland,False,Tie,Tie
+2016-11-15,Austria,Slovakia,0,0,Friendly,Vienna,Austria,False,Tie,Tie
+2016-11-15,Italy,Germany,0,0,Friendly,Milan,Italy,False,Tie,Tie
+2017-03-25,Belgium,Greece,1,1,FIFA World Cup qualification,Brussels,Belgium,False,Tie,Tie
+2017-03-25,Bulgaria,Netherlands,2,0,FIFA World Cup qualification,Sofia,Bulgaria,False,Bulgaria,Home
+2017-03-25,Cyprus,Estonia,0,0,FIFA World Cup qualification,Nicosia,Cyprus,False,Tie,Tie
+2017-03-25,Luxembourg,France,1,3,FIFA World Cup qualification,Luxembourg,Luxembourg,False,France,Away
+2017-03-25,Portugal,Hungary,3,0,FIFA World Cup qualification,Lisbon,Portugal,False,Portugal,Home
+2017-03-26,Malta,Slovakia,1,3,FIFA World Cup qualification,Attard,Malta,False,Slovakia,Away
+2017-03-26,Romania,Denmark,0,0,FIFA World Cup qualification,Cluj,Romania,False,Tie,Tie
+2017-03-28,Austria,Finland,1,1,Friendly,Innsbruck,Austria,False,Tie,Tie
+2017-03-28,Estonia,Croatia,3,0,Friendly,Tallinn,Estonia,False,Estonia,Home
+2017-03-28,France,Spain,0,2,Friendly,Saint-Denis,France,False,Spain,Away
+2017-03-28,Netherlands,Italy,1,2,Friendly,Amsterdam,Netherlands,False,Italy,Away
+2017-03-28,Portugal,Sweden,2,3,Friendly,Funchal,Portugal,False,Sweden,Away
+2017-06-03,Portugal,Cyprus,4,0,Friendly,Estoril,Portugal,False,Portugal,Home
+2017-06-06,Denmark,Germany,1,1,Friendly,Brøndby,Denmark,False,Tie,Tie
+2017-06-09,Estonia,Belgium,0,2,FIFA World Cup qualification,Tallinn,Estonia,False,Belgium,Away
+2017-06-09,Latvia,Portugal,0,3,FIFA World Cup qualification,Riga,Latvia,False,Portugal,Away
+2017-06-09,Netherlands,Luxembourg,5,0,FIFA World Cup qualification,Rotterdam,Netherlands,False,Netherlands,Home
+2017-06-09,Sweden,France,2,1,FIFA World Cup qualification,Solna,Sweden,False,Sweden,Home
+2017-06-10,Lithuania,Slovakia,1,2,FIFA World Cup qualification,Vilnius,Lithuania,False,Slovakia,Away
+2017-06-10,Poland,Romania,3,1,FIFA World Cup qualification,Warsaw,Poland,False,Poland,Home
+2017-06-10,Slovenia,Malta,2,0,FIFA World Cup qualification,Ljubljana,Slovenia,False,Slovenia,Home
+2017-06-12,Latvia,Estonia,1,2,Friendly,Riga,Latvia,False,Estonia,Away
+2017-08-31,Bulgaria,Sweden,3,2,FIFA World Cup qualification,Sofia,Bulgaria,False,Bulgaria,Home
+2017-08-31,France,Netherlands,4,0,FIFA World Cup qualification,Saint-Denis,France,False,France,Home
+2017-08-31,Greece,Estonia,0,0,FIFA World Cup qualification,Piraeus,Greece,False,Tie,Tie
+2017-08-31,Hungary,Latvia,3,1,FIFA World Cup qualification,Budapest,Hungary,False,Hungary,Home
+2017-09-01,Denmark,Poland,4,0,FIFA World Cup qualification,Copenhagen,Denmark,False,Denmark,Home
+2017-09-01,Slovakia,Slovenia,1,0,FIFA World Cup qualification,Trnava,Slovakia,False,Slovakia,Home
+2017-09-02,Spain,Italy,3,0,FIFA World Cup qualification,Madrid,Spain,False,Spain,Home
+2017-09-03,Estonia,Cyprus,1,0,FIFA World Cup qualification,Tallinn,Estonia,False,Estonia,Home
+2017-09-03,France,Luxembourg,0,0,FIFA World Cup qualification,Toulouse,France,False,Tie,Tie
+2017-09-03,Greece,Belgium,1,2,FIFA World Cup qualification,Piraeus,Greece,False,Belgium,Away
+2017-09-03,Hungary,Portugal,0,1,FIFA World Cup qualification,Budapest,Hungary,False,Portugal,Away
+2017-09-03,Netherlands,Bulgaria,3,1,FIFA World Cup qualification,Amsterdam,Netherlands,False,Netherlands,Home
+2017-09-04,Slovenia,Lithuania,4,0,FIFA World Cup qualification,Ljubljana,Slovenia,False,Slovenia,Home
+2017-10-05,Malta,Lithuania,1,1,FIFA World Cup qualification,Attard,Malta,False,Tie,Tie
+2017-10-06,Croatia,Finland,1,1,FIFA World Cup qualification,Rijeka,Croatia,False,Tie,Tie
+2017-10-07,Bulgaria,France,0,1,FIFA World Cup qualification,Sofia,Bulgaria,False,France,Away
+2017-10-07,Cyprus,Greece,1,2,FIFA World Cup qualification,Nicosia,Cyprus,False,Greece,Away
+2017-10-07,Sweden,Luxembourg,8,0,FIFA World Cup qualification,Solna,Sweden,False,Sweden,Home
+2017-10-08,Denmark,Romania,1,1,FIFA World Cup qualification,Copenhagen,Denmark,False,Tie,Tie
+2017-10-08,Slovakia,Malta,3,0,FIFA World Cup qualification,Trnava,Slovakia,False,Slovakia,Home
+2017-10-10,Belgium,Cyprus,4,0,FIFA World Cup qualification,Brussels,Belgium,False,Belgium,Home
+2017-10-10,Luxembourg,Bulgaria,1,1,FIFA World Cup qualification,Luxembourg,Luxembourg,False,Tie,Tie
+2017-10-10,Netherlands,Sweden,2,0,FIFA World Cup qualification,Amsterdam,Netherlands,False,Netherlands,Home
+2017-11-09,Croatia,Greece,4,1,FIFA World Cup qualification,Zagreb,Croatia,False,Croatia,Home
+2017-11-09,Finland,Estonia,3,0,Friendly,Helsinki,Finland,False,Finland,Home
+2017-11-09,Luxembourg,Hungary,2,1,Friendly,Luxembourg,Luxembourg,False,Luxembourg,Home
+2017-11-10,Sweden,Italy,1,0,FIFA World Cup qualification,Solna,Sweden,False,Sweden,Home
+2017-11-12,Greece,Croatia,0,0,FIFA World Cup qualification,Piraeus,Greece,False,Tie,Tie
+2017-11-12,Malta,Estonia,0,3,Friendly,Attard,Malta,False,Estonia,Away
+2017-11-13,Italy,Sweden,0,0,FIFA World Cup qualification,Milan,Italy,False,Tie,Tie
+2017-11-14,Germany,France,2,2,Friendly,Cologne,Germany,False,Tie,Tie
+2017-11-14,Romania,Netherlands,0,3,Friendly,Bucharest,Romania,False,Netherlands,Away
+2018-01-07,Estonia,Sweden,1,1,Friendly,Abu Dhabi,United Arab Emirates,True,Tie,Tie
+2018-01-11,Denmark,Sweden,0,1,Friendly,Abu Dhabi,United Arab Emirates,True,Sweden,Away
+2018-03-22,Malta,Luxembourg,0,1,Friendly,Attard,Malta,False,Luxembourg,Away
+2018-03-23,Austria,Slovenia,3,0,Friendly,Klagenfurt,Austria,False,Austria,Home
+2018-03-23,Germany,Spain,1,1,Friendly,Düsseldorf,Germany,False,Tie,Tie
+2018-03-26,Finland,Malta,5,0,Friendly,Belek,Turkey,True,Finland,Home
+2018-03-26,Portugal,Netherlands,0,3,Friendly,Geneva,Switzerland,True,Netherlands,Away
+2018-03-27,Luxembourg,Austria,0,4,Friendly,Luxembourg,Luxembourg,False,Austria,Away
+2018-03-27,Romania,Sweden,1,0,Friendly,Craiova,Romania,False,Romania,Home
+2018-05-30,Estonia,Lithuania,2,0,Baltic Cup,Rakvere,Estonia,False,Estonia,Home
+2018-05-31,Slovakia,Netherlands,1,1,Friendly,Trnava,Slovakia,False,Tie,Tie
+2018-06-01,France,Italy,3,1,Friendly,Nice,France,False,France,Home
+2018-06-02,Sweden,Denmark,0,0,Friendly,Solna,Sweden,False,Tie,Tie
+2018-06-02,Belgium,Portugal,0,0,Friendly,Brussels,Belgium,False,Tie,Tie
+2018-06-02,Austria,Germany,2,1,Friendly,Klagenfurt,Austria,False,Austria,Home
+2018-06-02,Latvia,Estonia,1,0,Baltic Cup,Riga,Latvia,False,Latvia,Home
+2018-06-04,Italy,Netherlands,1,1,Friendly,Turin,Italy,False,Tie,Tie
+2018-06-05,Romania,Finland,2,0,Friendly,Ploiești,Romania,False,Romania,Home
+2018-06-05,Lithuania,Latvia,1,1,Baltic Cup,Vilnius,Lithuania,False,Tie,Tie
+2018-06-12,Poland,Lithuania,4,0,Friendly,Warsaw,Poland,False,Poland,Home
+2018-06-15,Portugal,Spain,3,3,FIFA World Cup,Sochi,Russia,True,Tie,Tie
+2018-06-23,Germany,Sweden,2,1,FIFA World Cup,Sochi,Russia,True,Germany,Home
+2018-06-26,Denmark,France,0,0,FIFA World Cup,Moscow,Russia,True,Tie,Tie
+2018-07-01,Croatia,Denmark,1,1,FIFA World Cup,Nizhny Novgorod,Russia,True,Croatia,Tie
+2018-07-10,France,Belgium,1,0,FIFA World Cup,St. Petersburg,Russia,True,France,Home
+2018-07-15,France,Croatia,4,2,FIFA World Cup,Moscow,Russia,True,France,Home
+2018-09-05,Slovakia,Denmark,3,0,Friendly,Trnava,Slovakia,False,Slovakia,Home
+2018-09-06,Germany,France,0,0,UEFA Nations League,Munich,Germany,False,Tie,Tie
+2018-09-06,Slovenia,Bulgaria,1,2,UEFA Nations League,Ljubljana,Slovenia,False,Bulgaria,Away
+2018-09-06,Austria,Sweden,2,0,Friendly,Vienna,Austria,False,Austria,Home
+2018-09-06,Portugal,Croatia,1,1,Friendly,Faro-Loulé,Portugal,False,Tie,Tie
+2018-09-07,Italy,Poland,1,1,UEFA Nations League,Bologna,Italy,False,Tie,Tie
+2018-09-08,Finland,Hungary,1,0,UEFA Nations League,Tampere,Finland,False,Finland,Home
+2018-09-08,Estonia,Greece,0,1,UEFA Nations League,Tallinn,Estonia,False,Greece,Away
+2018-09-09,France,Netherlands,2,1,UEFA Nations League,Paris,France,False,France,Home
+2018-09-09,Cyprus,Slovenia,2,1,UEFA Nations League,Nicosia,Cyprus,False,Cyprus,Home
+2018-09-10,Portugal,Italy,1,0,UEFA Nations League,Lisbon,Portugal,False,Portugal,Home
+2018-09-11,Spain,Croatia,6,0,UEFA Nations League,Elche,Spain,False,Spain,Home
+2018-09-11,Hungary,Greece,2,1,UEFA Nations League,Budapest,Hungary,False,Hungary,Home
+2018-09-11,Finland,Estonia,1,0,UEFA Nations League,Turku,Finland,False,Finland,Home
+2018-10-11,Poland,Portugal,2,3,UEFA Nations League,Chorzow,Poland,False,Portugal,Away
+2018-10-11,Lithuania,Romania,1,2,UEFA Nations League,Vilnius,Lithuania,False,Romania,Away
+2018-10-12,Estonia,Finland,0,1,UEFA Nations League,Tallinn,Estonia,False,Finland,Away
+2018-10-12,Greece,Hungary,1,0,UEFA Nations League,Athens,Greece,False,Greece,Home
+2018-10-13,Netherlands,Germany,3,0,UEFA Nations League,Amsterdam,Netherlands,False,Netherlands,Home
+2018-10-13,Bulgaria,Cyprus,2,1,UEFA Nations League,Sofia,Bulgaria,False,Bulgaria,Home
+2018-10-14,Poland,Italy,0,1,UEFA Nations League,Chorzow,Poland,False,Italy,Away
+2018-10-15,Estonia,Hungary,3,3,UEFA Nations League,Tallinn,Estonia,False,Tie,Tie
+2018-10-15,Finland,Greece,2,0,UEFA Nations League,Tampere,Finland,False,Finland,Home
+2018-10-16,France,Germany,2,1,UEFA Nations League,Paris,France,False,France,Home
+2018-10-16,Slovenia,Cyprus,1,1,UEFA Nations League,Ljubljana,Slovenia,False,Tie,Tie
+2018-10-16,Belgium,Netherlands,1,1,Friendly,Brussels,Belgium,False,Tie,Tie
+2018-10-16,Denmark,Austria,2,0,Friendly,Herning,Denmark,False,Denmark,Home
+2018-10-16,Sweden,Slovakia,1,1,Friendly,Stockholm,Sweden,False,Tie,Tie
+2018-11-15,Croatia,Spain,3,2,UEFA Nations League,Zagreb,Croatia,False,Croatia,Home
+2018-11-15,Hungary,Estonia,2,0,UEFA Nations League,Budapest,Hungary,False,Hungary,Home
+2018-11-15,Greece,Finland,1,0,UEFA Nations League,Athens,Greece,False,Greece,Home
+2018-11-16,Netherlands,France,2,0,UEFA Nations League,Rotterdam,Netherlands,False,Netherlands,Home
+2018-11-16,Cyprus,Bulgaria,1,1,UEFA Nations League,Nicosia,Cyprus,False,Tie,Tie
+2018-11-17,Italy,Portugal,0,0,UEFA Nations League,Milan,Italy,False,Tie,Tie
+2018-11-17,Romania,Lithuania,3,0,UEFA Nations League,Ploiești,Romania,False,Romania,Home
+2018-11-18,Greece,Estonia,0,1,UEFA Nations League,Athens,Greece,False,Estonia,Away
+2018-11-18,Hungary,Finland,2,0,UEFA Nations League,Budapest,Hungary,False,Hungary,Home
+2018-11-19,Germany,Netherlands,2,2,UEFA Nations League,Gelsenkirchen,Germany,False,Tie,Tie
+2018-11-19,Bulgaria,Slovenia,1,1,UEFA Nations League,Sofia,Bulgaria,False,Tie,Tie
+2018-11-20,Portugal,Poland,1,1,UEFA Nations League,Guimaraes,Portugal,False,Tie,Tie
+2019-01-08,Finland,Sweden,1,0,Friendly,Doha,Qatar,True,Finland,Home
+2019-01-11,Estonia,Finland,2,1,Friendly,Doha,Qatar,True,Estonia,Home
+2019-03-21,Slovakia,Hungary,2,0,UEFA Euro qualification,Trnava,Slovakia,False,Slovakia,Home
+2019-03-21,Austria,Poland,0,1,UEFA Euro qualification,Vienna,Austria,False,Poland,Away
+2019-03-22,Luxembourg,Lithuania,2,1,UEFA Euro qualification,Luxembourg City,Luxembourg,False,Luxembourg,Home
+2019-03-23,Sweden,Romania,2,1,UEFA Euro qualification,Stockholm,Sweden,False,Sweden,Home
+2019-03-23,Italy,Finland,2,0,UEFA Euro qualification,Udine,Italy,False,Italy,Home
+2019-03-24,Netherlands,Germany,2,3,UEFA Euro qualification,Amsterdam,Netherlands,False,Germany,Away
+2019-03-24,Hungary,Croatia,2,1,UEFA Euro qualification,Budapest,Hungary,False,Hungary,Home
+2019-03-24,Poland,Latvia,2,0,UEFA Euro qualification,Warsaw,Poland,False,Poland,Home
+2019-03-24,Cyprus,Belgium,0,2,UEFA Euro qualification,Nicosia,Cyprus,False,Belgium,Away
+2019-03-26,Malta,Spain,0,2,UEFA Euro qualification,Attard,Malta,False,Spain,Away
+2019-06-07,Lithuania,Luxembourg,1,1,UEFA Euro qualification,Vilnius,Lithuania,False,Tie,Tie
+2019-06-07,Sweden,Malta,3,0,UEFA Euro qualification,Stockholm,Sweden,False,Sweden,Home
+2019-06-07,Austria,Slovenia,1,0,UEFA Euro qualification,Klagenfurt,Austria,False,Austria,Home
+2019-06-08,Greece,Italy,0,3,UEFA Euro qualification,Athens,Greece,False,Italy,Away
+2019-06-09,Portugal,Netherlands,1,0,UEFA Nations League,Porto,Portugal,False,Portugal,Home
+2019-06-10,Malta,Romania,0,4,UEFA Euro qualification,Attard,Malta,False,Romania,Away
+2019-06-10,Spain,Sweden,3,0,UEFA Euro qualification,Madrid,Spain,False,Spain,Home
+2019-06-10,Latvia,Slovenia,0,5,UEFA Euro qualification,Riga,Latvia,False,Slovenia,Away
+2019-06-11,Germany,Estonia,8,0,UEFA Euro qualification,Mainz,Germany,False,Germany,Home
+2019-09-05,Romania,Spain,1,2,UEFA Euro qualification,Bucharest,Romania,False,Spain,Away
+2019-09-05,Finland,Greece,1,0,UEFA Euro qualification,Tampere,Finland,False,Finland,Home
+2019-09-06,Germany,Netherlands,2,4,UEFA Euro qualification,Hamburg,Germany,False,Netherlands,Away
+2019-09-06,Slovakia,Croatia,0,4,UEFA Euro qualification,Trnava,Slovakia,False,Croatia,Away
+2019-09-06,Austria,Latvia,6,0,UEFA Euro qualification,Salzburg,Austria,False,Austria,Home
+2019-09-06,Slovenia,Poland,2,0,UEFA Euro qualification,Ljubljana,Slovenia,False,Slovenia,Home
+2019-09-08,Romania,Malta,1,0,UEFA Euro qualification,Ploiești,Romania,False,Romania,Home
+2019-09-08,Finland,Italy,1,2,UEFA Euro qualification,Tampere,Finland,False,Italy,Away
+2019-09-09,Estonia,Netherlands,0,4,UEFA Euro qualification,Tallinn,Estonia,False,Netherlands,Away
+2019-09-09,Hungary,Slovakia,1,2,UEFA Euro qualification,Budapest,Hungary,False,Slovakia,Away
+2019-09-09,Poland,Austria,0,0,UEFA Euro qualification,Warsaw,Poland,False,Tie,Tie
+2019-09-10,Lithuania,Portugal,1,5,UEFA Euro qualification,Vilnius,Lithuania,False,Portugal,Away
+2019-10-10,Croatia,Hungary,3,0,UEFA Euro qualification,Split,Croatia,False,Croatia,Home
+2019-10-10,Latvia,Poland,0,3,UEFA Euro qualification,Riga,Latvia,False,Poland,Away
+2019-10-11,Portugal,Luxembourg,3,0,UEFA Euro qualification,Lisbon,Portugal,False,Portugal,Home
+2019-10-12,Malta,Sweden,0,4,UEFA Euro qualification,Attard,Malta,False,Sweden,Away
+2019-10-12,Italy,Greece,2,0,UEFA Euro qualification,Rome,Italy,False,Italy,Home
+2019-10-13,Estonia,Germany,0,3,UEFA Euro qualification,Tallinn,Estonia,False,Germany,Away
+2019-10-13,Slovenia,Austria,0,1,UEFA Euro qualification,Ljubljana,Slovenia,False,Austria,Away
+2019-10-15,Sweden,Spain,1,1,UEFA Euro qualification,Stockholm,Sweden,False,Tie,Tie
+2019-10-15,Denmark,Luxembourg,4,0,Friendly,Aalborg,Denmark,False,Denmark,Home
+2019-11-14,Portugal,Lithuania,6,0,UEFA Euro qualification,Faro-Loulé,Portugal,False,Portugal,Home
+2019-11-15,Spain,Malta,7,0,UEFA Euro qualification,Cadiz,Spain,False,Spain,Home
+2019-11-15,Romania,Sweden,0,2,UEFA Euro qualification,Bucharest,Romania,False,Sweden,Away
+2019-11-16,Croatia,Slovakia,3,1,UEFA Euro qualification,Rijeka,Croatia,False,Croatia,Home
+2019-11-16,Slovenia,Latvia,1,0,UEFA Euro qualification,Ljubljana,Slovenia,False,Slovenia,Home
+2019-11-17,Luxembourg,Portugal,0,2,UEFA Euro qualification,Luxembourg City,Luxembourg,False,Portugal,Away
+2019-11-18,Spain,Romania,5,0,UEFA Euro qualification,Madrid,Spain,False,Spain,Home
+2019-11-18,Greece,Finland,2,1,UEFA Euro qualification,Athens,Greece,False,Greece,Home
+2019-11-19,Netherlands,Estonia,5,0,UEFA Euro qualification,Amsterdam,Netherlands,False,Netherlands,Home
+2019-11-19,Poland,Slovenia,3,2,UEFA Euro qualification,Warsaw,Poland,False,Poland,Home
+2019-11-19,Latvia,Austria,1,0,UEFA Euro qualification,Riga,Latvia,False,Latvia,Home
+2019-11-19,Belgium,Cyprus,6,1,UEFA Euro qualification,Brussels,Belgium,False,Belgium,Home
+2020-09-03,Germany,Spain,1,1,UEFA Nations League,Stuttgart,Germany,False,Tie,Tie
+2020-09-03,Slovenia,Greece,0,0,UEFA Nations League,Ljubljana,Slovenia,False,Tie,Tie
+2020-09-04,Netherlands,Poland,1,0,UEFA Nations League,Amsterdam,Netherlands,False,Netherlands,Home
+2020-09-05,Denmark,Belgium,0,2,UEFA Nations League,Copenhagen,Denmark,False,Belgium,Away
+2020-09-05,Portugal,Croatia,4,1,UEFA Nations League,Porto,Portugal,False,Portugal,Home
+2020-09-05,Sweden,France,0,1,UEFA Nations League,Stockholm,Sweden,False,France,Away
+2020-09-06,Malta,Latvia,1,1,UEFA Nations League,Attard,Malta,False,Tie,Tie
+2020-09-07,Netherlands,Italy,0,1,UEFA Nations League,Amsterdam,Netherlands,False,Italy,Away
+2020-09-07,Austria,Romania,2,3,UEFA Nations League,Klagenfurt,Austria,False,Romania,Away
+2020-09-08,France,Croatia,4,2,UEFA Nations League,Paris,France,False,France,Home
+2020-09-08,Sweden,Portugal,0,2,UEFA Nations League,Stockholm,Sweden,False,Portugal,Away
+2020-10-07,Austria,Greece,2,1,Friendly,Klagenfurt,Austria,False,Austria,Home
+2020-10-07,Estonia,Lithuania,1,3,Friendly,Tallinn,Estonia,False,Lithuania,Away
+2020-10-07,Poland,Finland,5,1,Friendly,Gdańsk,Poland,False,Poland,Home
+2020-10-07,Portugal,Spain,0,0,Friendly,Lisbon,Portugal,False,Tie,Tie
+2020-10-10,Luxembourg,Cyprus,2,0,UEFA Nations League,Luxembourg City,Luxembourg,False,Luxembourg,Home
+2020-10-11,Poland,Italy,0,0,UEFA Nations League,Gdańsk,Poland,False,Tie,Tie
+2020-10-11,Croatia,Sweden,2,1,UEFA Nations League,Zagreb,Croatia,False,Croatia,Home
+2020-10-11,France,Portugal,0,0,UEFA Nations League,Paris,France,False,Tie,Tie
+2020-10-11,Finland,Bulgaria,2,0,UEFA Nations League,Helsinki,Finland,False,Finland,Home
+2020-10-13,Latvia,Malta,0,1,UEFA Nations League,Riga,Latvia,False,Malta,Away
+2020-10-14,Italy,Netherlands,1,1,UEFA Nations League,Bergamo,Italy,False,Tie,Tie
+2020-10-14,Portugal,Sweden,3,0,UEFA Nations League,Lisbon,Portugal,False,Portugal,Home
+2020-10-14,Croatia,France,1,2,UEFA Nations League,Zagreb,Croatia,False,France,Away
+2020-10-14,Romania,Austria,0,1,UEFA Nations League,Ploiești,Romania,False,Austria,Away
+2020-11-11,Denmark,Sweden,2,0,Friendly,Brondbyvester,Denmark,False,Denmark,Home
+2020-11-11,France,Finland,0,2,Friendly,Paris,France,False,Finland,Away
+2020-11-11,Greece,Cyprus,2,1,Friendly,Athens,Greece,False,Greece,Home
+2020-11-11,Italy,Estonia,4,0,Friendly,Florence,Italy,False,Italy,Home
+2020-11-11,Luxembourg,Austria,0,3,Friendly,Luxembourg City,Luxembourg,False,Austria,Away
+2020-11-11,Netherlands,Spain,1,1,Friendly,Amsterdam,Netherlands,False,Tie,Tie
+2020-11-14,Portugal,France,0,1,UEFA Nations League,Lisbon,Portugal,False,France,Away
+2020-11-14,Sweden,Croatia,2,1,UEFA Nations League,Stockholm,Sweden,False,Sweden,Home
+2020-11-14,Cyprus,Luxembourg,2,1,UEFA Nations League,Nicosia,Cyprus,False,Cyprus,Home
+2020-11-15,Italy,Poland,2,0,UEFA Nations League,Reggio Emilia,Italy,False,Italy,Home
+2020-11-15,Bulgaria,Finland,1,2,UEFA Nations League,Sofia,Bulgaria,False,Finland,Away
+2020-11-17,Croatia,Portugal,2,3,UEFA Nations League,Split,Croatia,False,Portugal,Away
+2020-11-17,France,Sweden,4,2,UEFA Nations League,Paris,France,False,France,Home
+2020-11-17,Spain,Germany,6,0,UEFA Nations League,Seville,Spain,False,Spain,Home
+2020-11-18,Poland,Netherlands,1,2,UEFA Nations League,Chorzów,Poland,False,Netherlands,Away
+2020-11-18,Belgium,Denmark,4,2,UEFA Nations League,Leuven,Belgium,False,Belgium,Home
+2020-11-18,Greece,Slovenia,0,0,UEFA Nations League,Athens,Greece,False,Tie,Tie
+2021-03-24,Slovenia,Croatia,1,0,FIFA World Cup qualification,Ljubljana,Slovenia,False,Slovenia,Home
+2021-03-24,Cyprus,Slovakia,0,0,FIFA World Cup qualification,Nicosia,Cyprus,False,Tie,Tie
+2021-03-25,Spain,Greece,1,1,FIFA World Cup qualification,Granada,Spain,False,Tie,Tie
+2021-03-25,Hungary,Poland,3,3,FIFA World Cup qualification,Budapest,Hungary,False,Tie,Tie
+2021-03-27,Netherlands,Latvia,2,0,FIFA World Cup qualification,Amsterdam,Netherlands,False,Netherlands,Home
+2021-03-27,Croatia,Cyprus,1,0,FIFA World Cup qualification,Rijeka,Croatia,False,Croatia,Home
+2021-03-27,Slovakia,Malta,2,2,FIFA World Cup qualification,Trnava,Slovakia,False,Tie,Tie
+2021-03-28,Bulgaria,Italy,0,2,FIFA World Cup qualification,Sofia,Bulgaria,False,Italy,Away
+2021-03-28,Romania,Germany,0,1,FIFA World Cup qualification,Bucharest,Romania,False,Germany,Away
+2021-03-30,Luxembourg,Portugal,1,3,FIFA World Cup qualification,Luxembourg City,Luxembourg,False,Portugal,Away
+2021-03-30,Cyprus,Slovenia,1,0,FIFA World Cup qualification,Nicosia,Cyprus,False,Cyprus,Home
+2021-03-30,Croatia,Malta,3,0,FIFA World Cup qualification,Rijeka,Croatia,False,Croatia,Home
+2021-03-31,Sweden,Estonia,1,0,Friendly,Stockholm,Sweden,False,Sweden,Home
+2021-03-31,Lithuania,Italy,0,2,FIFA World Cup qualification,Vilnius,Lithuania,False,Italy,Away
+2021-03-31,Austria,Denmark,0,4,FIFA World Cup qualification,Vienna,Austria,False,Denmark,Away
+2021-05-29,Sweden,Finland,2,0,Friendly,Stockholm,Sweden,False,Sweden,Home
+2021-06-01,Slovakia,Bulgaria,1,1,Friendly,Ried im Innkreis,Austria,True,Tie,Tie
+2021-06-01,Lithuania,Estonia,0,1,Baltic Cup,Vilnius,Lithuania,False,Estonia,Away
+2021-06-02,Germany,Denmark,1,1,Friendly,Innsbruck,Austria,True,Tie,Tie
+2021-06-03,Belgium,Greece,1,1,Friendly,Brussels,Belgium,False,Tie,Tie
+2021-06-04,Finland,Estonia,0,1,Friendly,Helsinki,Finland,False,Estonia,Away
+2021-06-04,Hungary,Cyprus,1,0,Friendly,Budapest,Hungary,False,Hungary,Home
+2021-06-04,Spain,Portugal,0,0,Friendly,Madrid,Spain,False,Tie,Tie
+2021-06-04,Latvia,Lithuania,3,1,Baltic Cup,Riga,Latvia,False,Latvia,Home
+2021-06-06,Austria,Slovakia,0,0,Friendly,Vienna,Austria,False,Tie,Tie
+2021-06-06,Belgium,Croatia,1,0,Friendly,Brussels,Belgium,False,Belgium,Home
+2021-06-07,Germany,Latvia,7,1,Friendly,Düsseldorf,Germany,False,Germany,Home
+2021-06-08,France,Bulgaria,3,0,Friendly,Paris,France,False,France,Home
+2021-06-08,Spain,Lithuania,4,0,Friendly,Leganés,Spain,False,Spain,Home
+2021-06-10,Estonia,Latvia,2,1,Baltic Cup,Tallinn,Estonia,False,Estonia,Home
+2021-06-12,Denmark,Finland,0,1,UEFA Euro,Copenhagen,Denmark,False,Finland,Away
+2021-06-14,Poland,Slovakia,1,2,UEFA Euro,Saint Petersburg,Russia,True,Slovakia,Away
+2021-06-14,Spain,Sweden,0,0,UEFA Euro,Seville,Spain,False,Tie,Tie
+2021-06-15,Hungary,Portugal,0,3,UEFA Euro,Budapest,Hungary,False,Portugal,Away
+2021-06-15,Germany,France,0,1,UEFA Euro,Munich,Germany,False,France,Away
+2021-06-17,Denmark,Belgium,1,2,UEFA Euro,Copenhagen,Denmark,False,Belgium,Away
+2021-06-17,Netherlands,Austria,2,0,UEFA Euro,Amsterdam,Netherlands,False,Netherlands,Home
+2021-06-18,Sweden,Slovakia,1,0,UEFA Euro,Saint Petersburg,Russia,True,Sweden,Home
+2021-06-19,Spain,Poland,1,1,UEFA Euro,Seville,Spain,False,Tie,Tie
+2021-06-19,Hungary,France,1,1,UEFA Euro,Budapest,Hungary,False,Tie,Tie
+2021-06-19,Germany,Portugal,4,2,UEFA Euro,Munich,Germany,False,Germany,Home
+2021-06-21,Finland,Belgium,0,2,UEFA Euro,Saint Petersburg,Russia,True,Belgium,Away
+2021-06-23,Spain,Slovakia,5,0,UEFA Euro,Seville,Spain,False,Spain,Home
+2021-06-23,Sweden,Poland,3,2,UEFA Euro,Saint Petersburg,Russia,True,Sweden,Home
+2021-06-23,Germany,Hungary,2,2,UEFA Euro,Munich,Germany,False,Tie,Tie
+2021-06-23,Portugal,France,2,2,UEFA Euro,Budapest,Hungary,True,Tie,Tie
+2021-06-26,Italy,Austria,2,1,UEFA Euro,London,England,True,Italy,Home
+2021-06-27,Belgium,Portugal,1,0,UEFA Euro,Sevilla,Spain,True,Belgium,Home
+2021-06-28,Croatia,Spain,3,5,UEFA Euro,Copenhagen,Denmark,True,Spain,Away
+2021-07-02,Belgium,Italy,1,2,UEFA Euro,Munich,Germany,True,Italy,Away
+2021-07-06,Italy,Spain,1,1,UEFA Euro,London,England,True,Italy,Tie
+2021-09-01,Malta,Cyprus,3,0,FIFA World Cup qualification,Ta'Qali,Malta,False,Malta,Home
+2021-09-01,Slovenia,Slovakia,1,1,FIFA World Cup qualification,Ljubljana,Slovenia,False,Tie,Tie
+2021-09-02,Sweden,Spain,2,1,FIFA World Cup qualification,Stockholm,Sweden,False,Sweden,Home
+2021-09-02,Italy,Bulgaria,1,1,FIFA World Cup qualification,Florence,Italy,False,Tie,Tie
+2021-09-02,Estonia,Belgium,2,5,FIFA World Cup qualification,Tallinn,Estonia,False,Belgium,Away
+2021-09-04,Slovenia,Malta,1,0,FIFA World Cup qualification,Ljubljana,Slovenia,False,Slovenia,Home
+2021-09-04,Slovakia,Croatia,0,1,FIFA World Cup qualification,Bratislava,Slovakia,False,Croatia,Away
+2021-09-05,Bulgaria,Lithuania,1,0,FIFA World Cup qualification,Sofia,Bulgaria,False,Bulgaria,Home
+2021-09-07,France,Finland,2,0,FIFA World Cup qualification,Lyon,France,False,France,Home
+2021-09-07,Croatia,Slovenia,3,0,FIFA World Cup qualification,Split,Croatia,False,Croatia,Home
+2021-09-07,Slovakia,Cyprus,2,0,FIFA World Cup qualification,Bratislava,Slovakia,False,Slovakia,Home
+2021-09-08,Greece,Sweden,2,1,FIFA World Cup qualification,Athens,Greece,False,Greece,Home
+2021-09-08,Italy,Lithuania,5,0,FIFA World Cup qualification,Reggio Emilia,Italy,False,Italy,Home
