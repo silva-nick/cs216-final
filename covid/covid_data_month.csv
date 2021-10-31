@@ -1,0 +1,1205 @@
+country,year_month,monthly_count
+Albania,2020-03,89
+Albania,2020-04,637
+Albania,2020-05,272
+Albania,2020-06,1404
+Albania,2020-07,2361
+Albania,2020-08,4617
+Albania,2020-09,3879
+Albania,2020-10,7943
+Albania,2020-11,16423
+Albania,2020-12,21813
+Albania,2021-01,18689
+Albania,2021-02,29040
+Albania,2021-03,16967
+Albania,2021-04,7104
+Albania,2021-05,1071
+Albania,2021-06,226
+Albania,2021-07,586
+Albania,2021-08,17876
+Albania,2021-09,20797
+Albania,2021-10,6177
+Andorra,2020-03,113
+Andorra,2020-04,627
+Andorra,2020-05,23
+Andorra,2020-06,92
+Andorra,2020-07,42
+Andorra,2020-08,227
+Andorra,2020-09,712
+Andorra,2020-10,2989
+Andorra,2020-11,1887
+Andorra,2020-12,1480
+Andorra,2021-01,1745
+Andorra,2021-02,952
+Andorra,2021-03,961
+Andorra,2021-04,1445
+Andorra,2021-05,432
+Andorra,2021-06,264
+Andorra,2021-07,756
+Andorra,2021-08,322
+Andorra,2021-09,198
+Andorra,2021-10,100
+Armenia,2020-01,0
+Armenia,2020-02,0
+Armenia,2020-03,194
+Armenia,2020-04,1614
+Armenia,2020-05,5305
+Armenia,2020-06,18014
+Armenia,2020-07,12263
+Armenia,2020-08,6360
+Armenia,2020-09,5650
+Armenia,2020-10,44048
+Armenia,2020-11,41676
+Armenia,2020-12,25096
+Armenia,2021-01,6868
+Armenia,2021-02,5128
+Armenia,2021-03,18525
+Armenia,2021-04,26267
+Armenia,2021-05,5662
+Armenia,2021-06,2936
+Armenia,2021-07,4870
+Armenia,2021-08,14788
+Armenia,2021-09,20053
+Armenia,2021-10,17866
+Austria,2020-01,0
+Austria,2020-02,0
+Austria,2020-03,3631
+Austria,2020-04,11558
+Austria,2020-05,1250
+Austria,2020-06,1186
+Austria,2020-07,2861
+Austria,2020-08,6732
+Austria,2020-09,16248
+Austria,2020-10,67644
+Austria,2020-11,167072
+Austria,2020-12,86392
+Austria,2021-01,46411
+Austria,2021-02,45127
+Austria,2021-03,77399
+Austria,2021-04,84835
+Austria,2021-05,22182
+Austria,2021-06,6090
+Austria,2021-07,8527
+Austria,2021-08,37422
+Austria,2021-09,52315
+Austria,2021-10,27462
+Azerbaijan,2020-01,0
+Azerbaijan,2020-02,0
+Azerbaijan,2020-03,65
+Azerbaijan,2020-04,1580
+Azerbaijan,2020-05,2477
+Azerbaijan,2020-06,12302
+Azerbaijan,2020-07,13626
+Azerbaijan,2020-08,6259
+Azerbaijan,2020-09,3714
+Azerbaijan,2020-10,16421
+Azerbaijan,2020-11,61751
+Azerbaijan,2020-12,102070
+Azerbaijan,2021-01,9954
+Azerbaijan,2021-02,4443
+Azerbaijan,2021-03,22668
+Azerbaijan,2021-04,64468
+Azerbaijan,2021-05,12066
+Azerbaijan,2021-06,2553
+Azerbaijan,2021-07,8103
+Azerbaijan,2021-08,98352
+Azerbaijan,2021-09,43506
+Azerbaijan,2021-10,15829
+Belarus,2020-01,0
+Belarus,2020-02,0
+Belarus,2020-03,76
+Belarus,2020-04,10387
+Belarus,2020-05,25735
+Belarus,2020-06,25277
+Belarus,2020-07,5657
+Belarus,2020-08,4555
+Belarus,2020-09,5922
+Belarus,2020-10,21850
+Belarus,2020-11,35549
+Belarus,2020-12,64954
+Belarus,2021-01,48374
+Belarus,2021-02,39931
+Belarus,2021-03,30414
+Belarus,2021-04,43216
+Belarus,2021-05,32542
+Belarus,2021-06,26911
+Belarus,2021-07,26404
+Belarus,2021-08,44645
+Belarus,2021-09,51577
+Belarus,2021-10,29967
+Belgium,2020-01,0
+Belgium,2020-02,343
+Belgium,2020-03,5085
+Belgium,2020-04,42665
+Belgium,2020-05,9727
+Belgium,2020-06,3937
+Belgium,2020-07,5215
+Belgium,2020-08,18424
+Belgium,2020-09,31195
+Belgium,2020-10,334948
+Belgium,2020-11,126546
+Belgium,2020-12,73886
+Belgium,2021-01,61525
+Belgium,2021-02,60925
+Belgium,2021-03,102159
+Belgium,2021-04,125019
+Belgium,2021-05,65673
+Belgium,2021-06,23969
+Belgium,2021-07,38715
+Belgium,2021-08,67232
+Belgium,2021-09,55080
+Belgium,2021-10,37535
+Bosnia And Herzegovina,2020-03,131
+Bosnia And Herzegovina,2020-04,1385
+Bosnia And Herzegovina,2020-05,885
+Bosnia And Herzegovina,2020-06,1805
+Bosnia And Herzegovina,2020-07,6109
+Bosnia And Herzegovina,2020-08,9478
+Bosnia And Herzegovina,2020-09,7128
+Bosnia And Herzegovina,2020-10,24584
+Bosnia And Herzegovina,2020-11,35769
+Bosnia And Herzegovina,2020-12,25371
+Bosnia And Herzegovina,2021-01,9441
+Bosnia And Herzegovina,2021-02,10052
+Bosnia And Herzegovina,2021-03,32793
+Bosnia And Herzegovina,2021-04,34008
+Bosnia And Herzegovina,2021-05,5039
+Bosnia And Herzegovina,2021-06,1086
+Bosnia And Herzegovina,2021-07,721
+Bosnia And Herzegovina,2021-08,11577
+Bosnia And Herzegovina,2021-09,19655
+Bosnia And Herzegovina,2021-10,8065
+Bulgaria,2020-03,185
+Bulgaria,2020-04,1115
+Bulgaria,2020-05,1133
+Bulgaria,2020-06,2258
+Bulgaria,2020-07,5736
+Bulgaria,2020-08,5763
+Bulgaria,2020-09,3865
+Bulgaria,2020-10,34014
+Bulgaria,2020-11,88417
+Bulgaria,2020-12,60565
+Bulgaria,2021-01,15697
+Bulgaria,2021-02,28290
+Bulgaria,2021-03,81715
+Bulgaria,2021-04,76441
+Bulgaria,2021-05,13080
+Bulgaria,2021-06,3779
+Bulgaria,2021-07,3095
+Bulgaria,2021-08,36885
+Bulgaria,2021-09,43961
+Bulgaria,2021-10,34625
+Croatia,2020-01,0
+Croatia,2020-02,0
+Croatia,2020-03,235
+Croatia,2020-04,1795
+Croatia,2020-05,214
+Croatia,2020-06,447
+Croatia,2020-07,2166
+Croatia,2020-08,5266
+Croatia,2020-09,6074
+Croatia,2020-10,35298
+Croatia,2020-11,75117
+Croatia,2020-12,86346
+Croatia,2021-01,19562
+Croatia,2021-02,10544
+Croatia,2021-03,24458
+Croatia,2021-04,68000
+Croatia,2021-05,20659
+Croatia,2021-06,4065
+Croatia,2021-07,3541
+Croatia,2021-08,14235
+Croatia,2021-09,30896
+Croatia,2021-10,19315
+Cyprus,2020-03,121
+Cyprus,2020-04,705
+Cyprus,2020-05,109
+Cyprus,2020-06,63
+Cyprus,2020-07,65
+Cyprus,2020-08,429
+Cyprus,2020-09,233
+Cyprus,2020-10,3082
+Cyprus,2020-11,5978
+Cyprus,2020-12,13615
+Cyprus,2021-01,6404
+Cyprus,2021-02,3560
+Cyprus,2021-03,9428
+Cyprus,2021-04,21533
+Cyprus,2021-05,6050
+Cyprus,2021-06,6201
+Cyprus,2021-07,27266
+Cyprus,2021-08,11555
+Cyprus,2021-09,4101
+Cyprus,2021-10,1864
+Czechia,2020-01,0
+Czechia,2020-02,0
+Czechia,2020-03,1165
+Czechia,2020-04,6251
+Czechia,2020-05,1567
+Czechia,2020-06,2664
+Czechia,2020-07,3710
+Czechia,2020-08,9031
+Czechia,2020-09,40222
+Czechia,2020-10,277062
+Czechia,2020-11,178086
+Czechia,2020-12,227245
+Czechia,2021-01,240871
+Czechia,2021-02,252847
+Czechia,2021-03,276938
+Czechia,2021-04,117777
+Czechia,2021-05,26645
+Czechia,2021-06,6389
+Czechia,2021-07,5474
+Czechia,2021-08,6820
+Czechia,2021-09,13367
+Czechia,2021-10,15585
+Denmark,2020-01,0
+Denmark,2020-02,0
+Denmark,2020-03,1395
+Denmark,2020-04,7180
+Denmark,2020-05,2785
+Denmark,2020-06,1315
+Denmark,2020-07,763
+Denmark,2020-08,3262
+Denmark,2020-09,9937
+Denmark,2020-10,20662
+Denmark,2020-11,32053
+Denmark,2020-12,89359
+Denmark,2021-01,30249
+Denmark,2021-02,12732
+Denmark,2021-03,17000
+Denmark,2021-04,24981
+Denmark,2021-05,27554
+Denmark,2021-06,14427
+Denmark,2021-07,22831
+Denmark,2021-08,30955
+Denmark,2021-09,10971
+Denmark,2021-10,8992
+EU/EEA (total),2020-01,3
+EU/EEA (total),2020-02,503
+EU/EEA (total),2020-03,169627
+EU/EEA (total),2020-04,754513
+EU/EEA (total),2020-05,171804
+EU/EEA (total),2020-06,141220
+EU/EEA (total),2020-07,140801
+EU/EEA (total),2020-08,514816
+EU/EEA (total),2020-09,917476
+EU/EEA (total),2020-10,3933834
+EU/EEA (total),2020-11,4815658
+EU/EEA (total),2020-12,4390883
+EU/EEA (total),2021-01,3923013
+EU/EEA (total),2021-02,2751301
+EU/EEA (total),2021-03,3909540
+EU/EEA (total),2021-04,4472088
+EU/EEA (total),2021-05,1605587
+EU/EEA (total),2021-06,656386
+EU/EEA (total),2021-07,1649081
+EU/EEA (total),2021-08,2235537
+EU/EEA (total),2021-09,1395028
+EU/EEA (total),2021-10,860716
+Estonia,2020-01,0
+Estonia,2020-02,0
+Estonia,2020-03,326
+Estonia,2020-04,1317
+Estonia,2020-05,180
+Estonia,2020-06,164
+Estonia,2020-07,47
+Estonia,2020-08,339
+Estonia,2020-09,827
+Estonia,2020-10,1785
+Estonia,2020-11,7067
+Estonia,2020-12,17469
+Estonia,2021-01,14687
+Estonia,2021-02,22420
+Estonia,2021-03,37586
+Estonia,2021-04,18729
+Estonia,2021-05,6601
+Estonia,2021-06,1663
+Estonia,2021-07,2564
+Estonia,2021-08,10230
+Estonia,2021-09,14894
+Estonia,2021-10,14440
+Europe (total),2020-01,3
+Europe (total),2020-02,516
+Europe (total),2020-03,188677
+Europe (total),2020-04,1151446
+Europe (total),2020-05,629249
+Europe (total),2020-06,610078
+Europe (total),2020-07,456620
+Europe (total),2020-08,1125994
+Europe (total),2020-09,1561835
+Europe (total),2020-10,5840816
+Europe (total),2020-11,7394343
+Europe (total),2020-12,8357503
+Europe (total),2021-01,6363417
+Europe (total),2021-02,4111660
+Europe (total),2021-03,5541230
+Europe (total),2021-04,7413857
+Europe (total),2021-05,2551329
+Europe (total),2021-06,1956138
+Europe (total),2021-07,3730315
+Europe (total),2021-08,5411280
+Europe (total),2021-09,4297492
+Europe (total),2021-10,2645892
+Faroe Islands,2020-03,115
+Faroe Islands,2020-04,72
+Faroe Islands,2020-05,0
+Faroe Islands,2020-06,0
+Faroe Islands,2020-07,4
+Faroe Islands,2020-08,220
+Faroe Islands,2020-09,49
+Faroe Islands,2020-10,35
+Faroe Islands,2020-11,7
+Faroe Islands,2020-12,118
+Faroe Islands,2021-01,34
+Faroe Islands,2021-02,4
+Faroe Islands,2021-03,3
+Faroe Islands,2021-04,3
+Faroe Islands,2021-05,54
+Faroe Islands,2021-06,66
+Faroe Islands,2021-07,201
+Faroe Islands,2021-08,35
+Faroe Islands,2021-09,200
+Faroe Islands,2021-10,130
+Finland,2020-01,0
+Finland,2020-02,1
+Finland,2020-03,625
+Finland,2020-04,3950
+Finland,2020-05,2003
+Finland,2020-06,612
+Finland,2020-07,202
+Finland,2020-08,684
+Finland,2020-09,1605
+Finland,2020-10,6609
+Finland,2020-11,8338
+Finland,2020-12,12290
+Finland,2021-01,8563
+Finland,2021-02,12190
+Finland,2021-03,18331
+Finland,2021-04,11225
+Finland,2021-05,5204
+Finland,2021-06,4031
+Finland,2021-07,10858
+Finland,2021-08,22781
+Finland,2021-09,12012
+Finland,2021-10,7783
+France,2020-01,3
+France,2020-02,9
+France,2020-03,16665
+France,2020-04,107725
+France,2020-05,18245
+France,2020-06,17589
+France,2020-07,18957
+France,2020-08,105652
+France,2020-09,267231
+France,2020-10,987442
+France,2020-11,677354
+France,2020-12,419900
+France,2021-01,511238
+France,2021-02,497295
+France,2021-03,698080
+France,2021-04,961949
+France,2021-05,360779
+France,2021-06,120090
+France,2021-07,360416
+France,2021-08,689833
+France,2021-09,190607
+France,2021-10,61993
+Georgia,2020-01,0
+Georgia,2020-02,0
+Georgia,2020-03,54
+Georgia,2020-04,432
+Georgia,2020-05,244
+Georgia,2020-06,196
+Georgia,2020-07,211
+Georgia,2020-08,350
+Georgia,2020-09,4065
+Georgia,2020-10,37027
+Georgia,2020-11,93005
+Georgia,2020-12,94179
+Georgia,2021-01,28588
+Georgia,2021-02,12567
+Georgia,2021-03,9383
+Georgia,2021-04,32653
+Georgia,2021-05,31009
+Georgia,2021-06,25085
+Georgia,2021-07,54795
+Georgia,2021-08,142114
+Georgia,2021-09,52663
+Georgia,2021-10,46193
+Germany,2020-01,0
+Germany,2020-02,15
+Germany,2020-03,24759
+Germany,2020-04,130419
+Germany,2020-05,23377
+Germany,2020-06,15191
+Germany,2020-07,11848
+Germany,2020-08,36772
+Germany,2020-09,42951
+Germany,2020-10,259695
+Germany,2020-11,508842
+Germany,2020-12,721644
+Germany,2021-01,446458
+Germany,2021-02,225097
+Germany,2021-03,335205
+Germany,2021-04,643709
+Germany,2021-05,255144
+Germany,2021-06,49998
+Germany,2021-07,40985
+Germany,2021-08,238281
+Germany,2021-09,244998
+Germany,2021-10,122457
+Gibraltar,2020-03,15
+Gibraltar,2020-04,126
+Gibraltar,2020-05,10
+Gibraltar,2020-06,26
+Gibraltar,2020-07,8
+Gibraltar,2020-08,100
+Gibraltar,2020-09,94
+Gibraltar,2020-10,324
+Gibraltar,2020-11,311
+Gibraltar,2020-12,1392
+Gibraltar,2021-01,1708
+Gibraltar,2021-02,125
+Gibraltar,2021-03,34
+Gibraltar,2021-04,10
+Gibraltar,2021-05,10
+Gibraltar,2021-06,73
+Gibraltar,2021-07,614
+Gibraltar,2021-08,358
+Gibraltar,2021-09,235
+Gibraltar,2021-10,185
+Greece,2020-01,0
+Greece,2020-02,0
+Greece,2020-03,624
+Greece,2020-04,1882
+Greece,2020-05,372
+Greece,2020-06,498
+Greece,2020-07,817
+Greece,2020-08,5941
+Greece,2020-09,7310
+Greece,2020-10,23485
+Greece,2020-11,63298
+Greece,2020-12,35872
+Greece,2021-01,16858
+Greece,2021-02,34143
+Greece,2021-03,62931
+Greece,2021-04,92391
+Greece,2021-05,54879
+Greece,2021-06,24663
+Greece,2021-07,68943
+Greece,2021-08,105044
+Greece,2021-09,61357
+Greece,2021-10,32578
+Guernsey,2020-03,17
+Guernsey,2020-04,230
+Guernsey,2020-05,5
+Guernsey,2020-06,0
+Guernsey,2020-07,0
+Guernsey,2020-08,0
+Guernsey,2020-09,4
+Guernsey,2020-10,14
+Guernsey,2020-11,16
+Guernsey,2020-12,14
+Guernsey,2021-01,239
+Guernsey,2021-02,282
+Guernsey,2021-03,0
+Guernsey,2021-04,1
+Guernsey,2021-05,1
+Guernsey,2021-06,24
+Guernsey,2021-07,109
+Guernsey,2021-08,419
+Guernsey,2021-09,272
+Guernsey,2021-10,170
+Holy See,2020-03,1
+Holy See,2020-04,8
+Holy See,2020-05,3
+Holy See,2020-06,0
+Holy See,2020-07,0
+Holy See,2020-08,0
+Holy See,2020-09,0
+Holy See,2020-10,15
+Holy See,2020-11,0
+Holy See,2020-12,0
+Holy See,2021-01,0
+Holy See,2021-02,0
+Holy See,2021-03,0
+Holy See,2021-04,0
+Holy See,2021-05,0
+Holy See,2021-06,0
+Holy See,2021-07,0
+Holy See,2021-08,0
+Holy See,2021-09,0
+Holy See,2021-10,0
+Hungary,2020-03,167
+Hungary,2020-04,2416
+Hungary,2020-05,1173
+Hungary,2020-06,386
+Hungary,2020-07,306
+Hungary,2020-08,1513
+Hungary,2020-09,18755
+Hungary,2020-10,58064
+Hungary,2020-11,134342
+Hungary,2020-12,111729
+Hungary,2021-01,39859
+Hungary,2021-02,64215
+Hungary,2021-03,208199
+Hungary,2021-04,142987
+Hungary,2021-05,20427
+Hungary,2021-06,3724
+Hungary,2021-07,1384
+Hungary,2021-08,4042
+Hungary,2021-09,11188
+Hungary,2021-10,11513
+Iceland,2020-01,0
+Iceland,2020-02,0
+Iceland,2020-03,568
+Iceland,2020-04,1224
+Iceland,2020-05,12
+Iceland,2020-06,17
+Iceland,2020-07,26
+Iceland,2020-08,258
+Iceland,2020-09,518
+Iceland,2020-10,2267
+Iceland,2020-11,491
+Iceland,2020-12,373
+Iceland,2021-01,255
+Iceland,2021-02,45
+Iceland,2021-03,129
+Iceland,2021-04,300
+Iceland,2021-05,103
+Iceland,2021-06,78
+Iceland,2021-07,1458
+Iceland,2021-08,2941
+Iceland,2021-09,895
+Iceland,2021-10,656
+Ireland,2020-01,0
+Ireland,2020-02,0
+Ireland,2020-03,906
+Ireland,2020-04,18356
+Ireland,2020-05,5377
+Ireland,2020-06,800
+Ireland,2020-07,442
+Ireland,2020-08,2879
+Ireland,2020-09,6230
+Ireland,2020-10,27012
+Ireland,2020-11,10239
+Ireland,2020-12,29646
+Ireland,2021-01,94660
+Ireland,2021-02,22956
+Ireland,2021-03,14973
+Ireland,2021-04,15319
+Ireland,2021-05,11673
+Ireland,2021-06,12217
+Ireland,2021-07,27412
+Ireland,2021-08,55722
+Ireland,2021-09,36807
+Ireland,2021-10,21488
+Isle Of Man,2020-03,2
+Isle Of Man,2020-04,305
+Isle Of Man,2020-05,28
+Isle Of Man,2020-06,1
+Isle Of Man,2020-07,0
+Isle Of Man,2020-08,0
+Isle Of Man,2020-09,4
+Isle Of Man,2020-10,12
+Isle Of Man,2020-11,17
+Isle Of Man,2020-12,5
+Isle Of Man,2021-01,58
+Isle Of Man,2021-02,54
+Isle Of Man,2021-03,1080
+Isle Of Man,2021-04,24
+Isle Of Man,2021-05,3
+Isle Of Man,2021-06,53
+Isle Of Man,2021-07,3267
+Isle Of Man,2021-08,1936
+Isle Of Man,2021-09,849
+Isle Of Man,2021-10,949
+Italy,2020-01,0
+Italy,2020-02,132
+Italy,2020-03,59006
+Italy,2020-04,138537
+Italy,2020-05,32183
+Italy,2020-06,10452
+Italy,2020-07,5808
+Italy,2020-08,22100
+Italy,2020-09,41652
+Italy,2020-10,399465
+Italy,2020-11,875843
+Italy,2020-12,570268
+Italy,2021-01,397586
+Italy,2021-02,372233
+Italy,2021-03,606792
+Italy,2021-04,512705
+Italy,2021-05,171241
+Italy,2021-06,47314
+Italy,2021-07,92031
+Italy,2021-08,216092
+Italy,2021-09,110594
+Italy,2021-10,35865
+Jersey,2020-03,15
+Jersey,2020-04,266
+Jersey,2020-05,25
+Jersey,2020-06,13
+Jersey,2020-07,13
+Jersey,2020-08,42
+Jersey,2020-09,26
+Jersey,2020-10,174
+Jersey,2020-11,354
+Jersey,2020-12,1893
+Jersey,2021-01,331
+Jersey,2021-02,65
+Jersey,2021-03,8
+Jersey,2021-04,9
+Jersey,2021-05,9
+Jersey,2021-06,641
+Jersey,2021-07,4376
+Jersey,2021-08,1240
+Jersey,2021-09,560
+Jersey,2021-10,389
+Kosovo,2020-03,33
+Kosovo,2020-04,731
+Kosovo,2020-05,268
+Kosovo,2020-06,1645
+Kosovo,2020-07,4240
+Kosovo,2020-08,6417
+Kosovo,2020-09,2138
+Kosovo,2020-10,4707
+Kosovo,2020-11,18878
+Kosovo,2020-12,12908
+Kosovo,2021-01,8253
+Kosovo,2021-02,9012
+Kosovo,2021-03,18751
+Kosovo,2021-04,17554
+Kosovo,2021-05,1870
+Kosovo,2021-06,395
+Kosovo,2021-07,713
+Kosovo,2021-08,44145
+Kosovo,2021-09,7542
+Kosovo,2021-10,341
+Latvia,2020-03,139
+Latvia,2020-04,673
+Latvia,2020-05,235
+Latvia,2020-06,69
+Latvia,2020-07,103
+Latvia,2020-08,174
+Latvia,2020-09,283
+Latvia,2020-10,4460
+Latvia,2020-11,10839
+Latvia,2020-12,25522
+Latvia,2021-01,23744
+Latvia,2021-02,19945
+Latvia,2021-03,14854
+Latvia,2021-04,18710
+Latvia,2021-05,13348
+Latvia,2021-06,4533
+Latvia,2021-07,1268
+Latvia,2021-08,5619
+Latvia,2021-09,17123
+Latvia,2021-10,23975
+Liechtenstein,2020-03,46
+Liechtenstein,2020-04,37
+Liechtenstein,2020-05,0
+Liechtenstein,2020-06,0
+Liechtenstein,2020-07,4
+Liechtenstein,2020-08,21
+Liechtenstein,2020-09,9
+Liechtenstein,2020-10,434
+Liechtenstein,2020-11,722
+Liechtenstein,2020-12,949
+Liechtenstein,2021-01,275
+Liechtenstein,2021-02,79
+Liechtenstein,2021-03,88
+Liechtenstein,2021-04,284
+Liechtenstein,2021-05,64
+Liechtenstein,2021-06,35
+Liechtenstein,2021-07,42
+Liechtenstein,2021-08,254
+Liechtenstein,2021-09,108
+Liechtenstein,2021-10,49
+Lithuania,2020-01,0
+Lithuania,2020-02,0
+Lithuania,2020-03,143
+Lithuania,2020-04,1295
+Lithuania,2020-05,185
+Lithuania,2020-06,193
+Lithuania,2020-07,192
+Lithuania,2020-08,866
+Lithuania,2020-09,1511
+Lithuania,2020-10,11334
+Lithuania,2020-11,45606
+Lithuania,2020-12,86662
+Lithuania,2021-01,34906
+Lithuania,2021-02,16505
+Lithuania,2021-03,14967
+Lithuania,2021-04,35972
+Lithuania,2021-05,24439
+Lithuania,2021-06,4174
+Lithuania,2021-07,4706
+Lithuania,2021-08,20036
+Lithuania,2021-09,36388
+Lithuania,2021-10,32505
+Luxembourg,2020-01,0
+Luxembourg,2020-02,0
+Luxembourg,2020-03,798
+Luxembourg,2020-04,2925
+Luxembourg,2020-05,269
+Luxembourg,2020-06,250
+Luxembourg,2020-07,2030
+Luxembourg,2020-08,353
+Luxembourg,2020-09,1732
+Luxembourg,2020-10,10425
+Luxembourg,2020-11,15191
+Luxembourg,2020-12,12946
+Luxembourg,2021-01,3750
+Luxembourg,2021-02,4756
+Luxembourg,2021-03,5330
+Luxembourg,2021-04,6642
+Luxembourg,2021-05,2492
+Luxembourg,2021-06,1142
+Luxembourg,2021-07,2839
+Luxembourg,2021-08,2232
+Luxembourg,2021-09,2224
+Luxembourg,2021-10,1394
+Malta,2020-03,107
+Malta,2020-04,342
+Malta,2020-05,161
+Malta,2020-06,59
+Malta,2020-07,30
+Malta,2020-08,1186
+Malta,2020-09,1122
+Malta,2020-10,3383
+Malta,2020-11,3472
+Malta,2020-12,3357
+Malta,2021-01,4652
+Malta,2021-02,5076
+Malta,2021-03,5991
+Malta,2021-04,1388
+Malta,2021-05,162
+Malta,2021-06,132
+Malta,2021-07,3819
+Malta,2021-08,2073
+Malta,2021-09,709
+Malta,2021-10,245
+Moldova,2020-03,94
+Moldova,2020-04,3314
+Moldova,2020-05,3685
+Moldova,2020-06,9157
+Moldova,2020-07,6784
+Moldova,2020-08,13666
+Moldova,2020-09,14175
+Moldova,2020-10,25707
+Moldova,2020-11,30435
+Moldova,2020-12,38856
+Moldova,2021-01,13931
+Moldova,2021-02,25649
+Moldova,2021-03,41068
+Moldova,2021-04,24814
+Moldova,2021-05,3810
+Moldova,2021-06,1825
+Moldova,2021-07,2579
+Moldova,2021-08,10670
+Moldova,2021-09,27013
+Moldova,2021-10,19297
+Monaco,2020-01,0
+Monaco,2020-02,0
+Monaco,2020-03,20
+Monaco,2020-04,45
+Monaco,2020-05,2
+Monaco,2020-06,3
+Monaco,2020-07,11
+Monaco,2020-08,50
+Monaco,2020-09,79
+Monaco,2020-10,156
+Monaco,2020-11,242
+Monaco,2020-12,299
+Monaco,2021-01,582
+Monaco,2021-02,467
+Monaco,2021-03,303
+Monaco,2021-04,198
+Monaco,2021-05,47
+Monaco,2021-06,83
+Monaco,2021-07,304
+Monaco,2021-08,349
+Monaco,2021-09,77
+Monaco,2021-10,46
+Montenegro,2020-03,21
+Montenegro,2020-04,300
+Montenegro,2020-05,3
+Montenegro,2020-06,157
+Montenegro,2020-07,2088
+Montenegro,2020-08,2221
+Montenegro,2020-09,5523
+Montenegro,2020-10,8401
+Montenegro,2020-11,16167
+Montenegro,2020-12,14314
+Montenegro,2021-01,12464
+Montenegro,2021-02,14174
+Montenegro,2021-03,14250
+Montenegro,2021-04,7635
+Montenegro,2021-05,1887
+Montenegro,2021-06,722
+Montenegro,2021-07,1765
+Montenegro,2021-08,16012
+Montenegro,2021-09,14592
+Montenegro,2021-10,5073
+Netherlands,2020-01,0
+Netherlands,2020-02,0
+Netherlands,2020-03,4204
+Netherlands,2020-04,33641
+Netherlands,2020-05,7391
+Netherlands,2020-06,4911
+Netherlands,2020-07,2799
+Netherlands,2020-08,17125
+Netherlands,2020-09,41439
+Netherlands,2020-10,247927
+Netherlands,2020-11,158836
+Netherlands,2020-12,301920
+Netherlands,2021-01,160254
+Netherlands,2021-02,107380
+Netherlands,2021-03,163705
+Netherlands,2021-04,255241
+Netherlands,2021-05,139853
+Netherlands,2021-06,42237
+Netherlands,2021-07,178596
+Netherlands,2021-08,86568
+Netherlands,2021-09,53901
+Netherlands,2021-10,39713
+North Macedonia,2020-01,0
+North Macedonia,2020-02,0
+North Macedonia,2020-03,114
+North Macedonia,2020-04,1272
+North Macedonia,2020-05,592
+North Macedonia,2020-06,4114
+North Macedonia,2020-07,3994
+North Macedonia,2020-08,3841
+North Macedonia,2020-09,3702
+North Macedonia,2020-10,14807
+North Macedonia,2020-11,29107
+North Macedonia,2020-12,22481
+North Macedonia,2021-01,8669
+North Macedonia,2021-02,10094
+North Macedonia,2021-03,24151
+North Macedonia,2021-04,25747
+North Macedonia,2021-05,2587
+North Macedonia,2021-06,444
+North Macedonia,2021-07,736
+North Macedonia,2021-08,23593
+North Macedonia,2021-09,12433
+North Macedonia,2021-10,4613
+Norway,2020-01,0
+Norway,2020-02,0
+Norway,2020-03,2132
+Norway,2020-04,5373
+Norway,2020-05,804
+Norway,2020-06,506
+Norway,2020-07,270
+Norway,2020-08,1458
+Norway,2020-09,2863
+Norway,2020-10,6157
+Norway,2020-11,15184
+Norway,2020-12,15968
+Norway,2021-01,12251
+Norway,2021-02,8036
+Norway,2021-03,22143
+Norway,2021-04,20323
+Norway,2021-05,11312
+Norway,2021-06,7165
+Norway,2021-07,6005
+Norway,2021-08,29301
+Norway,2021-09,23279
+Norway,2021-10,5818
+Poland,2020-03,634
+Poland,2020-04,10983
+Poland,2020-05,9709
+Poland,2020-06,12581
+Poland,2020-07,9158
+Poland,2020-08,23805
+Poland,2020-09,20460
+Poland,2020-10,292572
+Poland,2020-11,605173
+Poland,2020-12,337872
+Poland,2021-01,190438
+Poland,2021-02,198387
+Poland,2021-03,556192
+Poland,2021-04,537792
+Poland,2021-05,66527
+Poland,2021-06,8025
+Poland,2021-07,2812
+Poland,2021-08,7546
+Poland,2021-09,20883
+Poland,2021-10,29577
+Portugal,2020-03,1600
+Portugal,2020-04,22246
+Portugal,2020-05,6777
+Portugal,2020-06,11023
+Portugal,2020-07,8518
+Portugal,2020-08,7604
+Portugal,2020-09,15836
+Portugal,2020-10,70737
+Portugal,2020-11,150458
+Portugal,2020-12,136824
+Portugal,2021-01,294698
+Portugal,2021-02,78635
+Portugal,2021-03,15760
+Portugal,2021-04,16741
+Portugal,2021-05,11636
+Portugal,2021-06,41478
+Portugal,2021-07,81556
+Portugal,2021-08,75583
+Portugal,2021-09,23597
+Portugal,2021-10,8790
+Romania,2020-01,0
+Romania,2020-02,0
+Romania,2020-03,433
+Romania,2020-04,10603
+Romania,2020-05,7034
+Romania,2020-06,8243
+Romania,2020-07,18485
+Romania,2020-08,41987
+Romania,2020-09,35888
+Romania,2020-10,123990
+Romania,2020-11,224873
+Romania,2020-12,168893
+Romania,2021-01,89627
+Romania,2021-02,74034
+Romania,2021-03,136353
+Romania,2021-04,117894
+Romania,2021-05,19400
+Romania,2021-06,3242
+Romania,2021-07,2499
+Romania,2021-08,23565
+Romania,2021-09,167076
+Romania,2021-10,193282
+Russia,2020-01,0
+Russia,2020-02,2
+Russia,2020-03,365
+Russia,2020-04,80582
+Russia,2020-05,263532
+Russia,2020-06,289956
+Russia,2020-07,178048
+Russia,2020-08,177841
+Russia,2020-09,161112
+Russia,2020-10,485343
+Russia,2020-11,632535
+Russia,2020-12,990822
+Russia,2021-01,607949
+Russia,2021-02,389563
+Russia,2021-03,270893
+Russia,2021-04,294712
+Russia,2021-05,248662
+Russia,2021-06,539024
+Russia,2021-07,701244
+Russia,2021-08,700414
+Russia,2021-09,599718
+Russia,2021-10,380370
+San Marino,2020-01,0
+San Marino,2020-02,0
+San Marino,2020-03,151
+San Marino,2020-04,387
+San Marino,2020-05,127
+San Marino,2020-06,33
+San Marino,2020-07,1
+San Marino,2020-08,11
+San Marino,2020-09,17
+San Marino,2020-10,201
+San Marino,2020-11,658
+San Marino,2020-12,907
+San Marino,2021-01,532
+San Marino,2021-02,691
+San Marino,2021-03,640
+San Marino,2021-04,711
+San Marino,2021-05,23
+San Marino,2021-06,2
+San Marino,2021-07,55
+San Marino,2021-08,174
+San Marino,2021-09,123
+San Marino,2021-10,31
+Serbia,2020-03,188
+Serbia,2020-04,7854
+Serbia,2020-05,3117
+Serbia,2020-06,2887
+Serbia,2020-07,9684
+Serbia,2020-08,7635
+Serbia,2020-09,2019
+Serbia,2020-10,15019
+Serbia,2020-11,120811
+Serbia,2020-12,174656
+Serbia,2021-01,51393
+Serbia,2021-02,63996
+Serbia,2021-03,126247
+Serbia,2021-04,106414
+Serbia,2021-05,20304
+Serbia,2021-06,4649
+Serbia,2021-07,5348
+Serbia,2021-08,57502
+Serbia,2021-09,181283
+Serbia,2021-10,87829
+Slovakia,2020-03,204
+Slovakia,2020-04,1180
+Slovakia,2020-05,129
+Slovakia,2020-06,154
+Slovakia,2020-07,537
+Slovakia,2020-08,1785
+Slovakia,2020-09,5585
+Slovakia,2020-10,58823
+Slovakia,2020-11,55921
+Slovakia,2020-12,178719
+Slovakia,2021-01,144157
+Slovakia,2021-02,150203
+Slovakia,2021-03,107414
+Slovakia,2021-04,52995
+Slovakia,2021-05,13557
+Slovakia,2021-06,3828
+Slovakia,2021-07,1415
+Slovakia,2021-08,5540
+Slovakia,2021-09,29264
+Slovakia,2021-10,26438
+Slovenia,2020-03,478
+Slovenia,2020-04,931
+Slovenia,2020-05,60
+Slovenia,2020-06,130
+Slovenia,2020-07,498
+Slovenia,2020-08,822
+Slovenia,2020-09,2564
+Slovenia,2020-10,31458
+Slovenia,2020-11,38582
+Slovenia,2020-12,48893
+Slovenia,2021-01,37130
+Slovenia,2021-02,29591
+Slovenia,2021-03,23045
+Slovenia,2021-04,28692
+Slovenia,2021-05,11204
+Slovenia,2021-06,3425
+Slovenia,2021-07,2000
+Slovenia,2021-08,11921
+Slovenia,2021-09,25650
+Slovenia,2021-10,13096
+Spain,2020-01,0
+Spain,2020-02,2
+Spain,2020-03,41260
+Spain,2020-04,170308
+Spain,2020-05,23830
+Spain,2020-06,13570
+Spain,2020-07,29812
+Spain,2020-08,184076
+Spain,2020-09,285408
+Spain,2020-10,492431
+Spain,2020-11,407490
+Spain,2020-12,310657
+Spain,2021-01,863961
+Spain,2021-02,302862
+Spain,2021-03,145158
+Spain,2021-04,269605
+Spain,2021-05,137960
+Spain,2021-06,188085
+Spain,2021-07,636508
+Spain,2021-08,384411
+Spain,2021-09,78005
+Spain,2021-10,23479
+Sweden,2020-01,0
+Sweden,2020-02,1
+Sweden,2020-03,1986
+Sweden,2020-04,16881
+Sweden,2020-05,15513
+Sweden,2020-06,31952
+Sweden,2020-07,9396
+Sweden,2020-08,8509
+Sweden,2020-09,7923
+Sweden,2020-10,41169
+Sweden,2020-11,124228
+Sweden,2020-12,205102
+Sweden,2021-01,112287
+Sweden,2021-02,91193
+Sweden,2021-03,127217
+Sweden,2021-04,191909
+Sweden,2021-05,85739
+Sweden,2021-06,20187
+Sweden,2021-07,9516
+Sweden,2021-08,30818
+Sweden,2021-09,22778
+Sweden,2021-10,8204
+Switzerland,2020-01,0
+Switzerland,2020-02,0
+Switzerland,2020-03,6971
+Switzerland,2020-04,22007
+Switzerland,2020-05,1675
+Switzerland,2020-06,881
+Switzerland,2020-07,2791
+Switzerland,2020-08,7581
+Switzerland,2020-09,9958
+Switzerland,2020-10,101864
+Switzerland,2020-11,163289
+Switzerland,2020-12,142643
+Switzerland,2021-01,62868
+Switzerland,2021-02,32312
+Switzerland,2021-03,39203
+Switzerland,2021-04,66873
+Switzerland,2021-05,30720
+Switzerland,2021-06,9009
+Switzerland,2021-07,15849
+Switzerland,2021-08,75716
+Switzerland,2021-09,51999
+Switzerland,2021-10,9140
+Turkey,2020-03,1236
+Turkey,2020-04,108894
+Turkey,2020-05,46697
+Turkey,2020-06,40412
+Turkey,2020-07,28861
+Turkey,2020-08,271266
+Turkey,2020-09,234327
+Turkey,2020-10,298590
+Turkey,2020-11,370146
+Turkey,2020-12,841483
+Turkey,2021-01,235551
+Turkey,2021-02,224125
+Turkey,2021-03,506585
+Turkey,2021-04,1667215
+Turkey,2021-05,367523
+Turkey,2021-06,201875
+Turkey,2021-07,282259
+Turkey,2021-08,771009
+Turkey,2021-09,712862
+Turkey,2021-10,419247
+Ukraine,2020-03,47
+Ukraine,2020-04,8570
+Ukraine,2020-05,12369
+Ukraine,2020-06,21996
+Ukraine,2020-07,21867
+Ukraine,2020-08,54225
+Ukraine,2020-09,79560
+Ukraine,2020-10,196806
+Ukraine,2020-11,327239
+Ukraine,2020-12,351414
+Ukraine,2021-01,149786
+Ukraine,2021-02,128255
+Ukraine,2021-03,300275
+Ukraine,2021-04,433529
+Ukraine,2021-05,116556
+Ukraine,2021-06,35329
+Ukraine,2021-07,15446
+Ukraine,2021-08,45038
+Ukraine,2021-09,161703
+Ukraine,2021-10,184684
+United Kingdom,2020-01,0
+United Kingdom,2020-02,11
+United Kingdom,2020-03,8923
+United Kingdom,2020-04,145308
+United Kingdom,2020-05,90366
+United Kingdom,2020-06,38487
+United Kingdom,2020-07,17156
+United Kingdom,2020-08,34216
+United Kingdom,2020-09,100502
+United Kingdom,2020-10,599945
+United Kingdom,2020-11,582413
+United Kingdom,2020-12,1037452
+United Kingdom,2021-01,1162397
+United Kingdom,2021-02,359378
+United Kingdom,2021-03,156488
+United Kingdom,2021-04,87159
+United Kingdom,2021-05,63855
+United Kingdom,2021-06,446477
+United Kingdom,2021-07,950134
+United Kingdom,2021-08,1097459
+United Kingdom,2021-09,922554
+United Kingdom,2021-10,548485
