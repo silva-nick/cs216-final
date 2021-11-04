@@ -1,4 +1,4 @@
-,team,year_month,home_score,away_score,neutral,home_win,away_win,games_played
+index,team,year_month,home_score,away_score,neutral,home_win,away_win,games_played
 0,Austria,2010-03,2,1,0,1,0,1
 1,Austria,2010-05,0,1,0,0,1,1
 2,Austria,2010-10,4,4,0,0,0,1
